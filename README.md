@@ -51,13 +51,26 @@ The final Random Forest model achieved strong performance metrics on the test se
 *   **Tenure**: New customers churn significantly more often.
 *   **Total Charges**: High lifetime value customers behave differently.
 
-## 5. How to Run the App
+## 5. Streamlit Dashboard Features
+The interactive web application (`app/main.py`) has been upgraded to a **Business-Class Dashboard**:
 
-**Prerequisites:**
-Ensure you have Python installed. Install dependencies:
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn streamlit joblib
-```
+1.  **KPI Cards**: Real-time overview of Churn Risk, Probability %, and Tenure.
+2.  **Risk Meter**: Visual progress bar with strict color-coded alerts (Red/Yellow/Green).
+3.  **Business Actions**: Context-aware recommendations (e.g., "Retention Protocol" vs "Engagement").
+4.  **What-If Analysis**: Simulate strategy changes (e.g., switching Contract type) to see immediate risk impact.
+5.  **Explainability**: Visualizing the top 10 factors driving the model's decision.
+6.  **Batch Prediction**: Upload a CSV to generate churn predictions for hundreds of customers at once. (Use `sample_upload.csv` to test!).
+
+### 💎 Business Value
+*   **Proactive Retention**: Identifies at-risk customers *before* they leave, allowing for targeted intervention.
+*   **Data-Driven Decisions**: Replaces intuition with probability-based risk assessments.
+*   **Revenue Protection**: Focuses resources on high-value customers with high churn risk.
+*   **Efficiency**: Automates the analysis of thousands of customer profiles in seconds.
+
+## 6. Dashboard Screenshots
+*(Add your screenshots here)*
+*   **Main Dashboard**: [placeholder for dashboard.png]
+*   **Batch Portal**: [placeholder for batch.png]
 
 **Run the Application:**
 Navigate to the project folder and execute:

@@ -6,3 +6,5 @@ seaborn
 streamlit
 jupyter
 joblib
+plotly
+scipy
