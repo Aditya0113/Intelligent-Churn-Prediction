@@ -270,7 +270,7 @@ if app_mode == "Dashboard":
     # Header with Emoji (Reverted)
     col_t1, col_t2 = st.columns([5, 1])
     with col_t1:
-        st.title("🏢 Customer Retention Dashboard")
+        st.markdown("<h1 style='font-size: 2.2rem;'>🏢 Customer Retention Dashboard</h1>", unsafe_allow_html=True)
         st.markdown(f"**Current Status:** <span style='color:{risk_color}; font-size:1.2em; font-weight:bold'>{risk_label}</span>", unsafe_allow_html=True)
     
     with col_t2:
@@ -521,7 +521,7 @@ if app_mode == "Dashboard":
 
     # --- RIGHT PANEL: PROFILE SNAPSHOT ---
     with col_profile:
-        st.subheader("📋 Profile Snapshot")
+        st.markdown("<h3 style='font-size: 1.2rem; margin-bottom: 5px;'>📋 Profile Snapshot</h3>", unsafe_allow_html=True)
         st.markdown("---")
         
         # Display key attributes in a vertical table style
