@@ -4,21 +4,20 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Jupyter Notebooks
-.ipynb_checkpoints/
+# Data & Models (User Requested)
+*.pkl
+*.csv
 
-# Virtual Environments
+# Environments
+.env
+.venv
 venv/
 env/
-.env
 
-# VS Code
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE/OS
 .vscode/
-
-# OS specific
 .DS_Store
 Thumbs.db
-
-# Project specific (Optional: Uncomment if data/models shouldn't be committed)
-# data/
-# models/*.pkl
