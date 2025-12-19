@@ -101,8 +101,8 @@ st.markdown(f"""
     
     /* --- SIDEBAR & NAVIGATION --- */
     [data-testid="stSidebar"] {{
-        min-width: 340px !important;
-        max-width: 340px !important;
+        min-width: 300px !important;
+        max-width: 300px !important;
         background-color: {pro_sidebar_bg};
         border-right: 1px solid {pro_card_border};
     }}
@@ -172,7 +172,7 @@ model = st.session_state['model']
 # 4. Sidebar: Navigation & Inputs
 # -----------------------------------------------------------------------------
 st.sidebar.markdown(f"""
-<div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 20px; font-weight: bold; margin-bottom: 20px; color: {pro_text};">
+<div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 18px; font-weight: bold; margin-bottom: 20px; color: {pro_text};">
     📡 Customer Risk Intelligence
 </div>
 """, unsafe_allow_html=True)
