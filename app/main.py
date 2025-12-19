@@ -101,8 +101,8 @@ st.markdown(f"""
     
     /* --- SIDEBAR & NAVIGATION --- */
     [data-testid="stSidebar"] {{
-        min-width: 400px !important;
-        max-width: 400px !important;
+        min-width: 340px !important;
+        max-width: 340px !important;
         background-color: {pro_sidebar_bg};
         border-right: 1px solid {pro_card_border};
     }}
@@ -172,7 +172,7 @@ model = st.session_state['model']
 # 4. Sidebar: Navigation & Inputs
 # -----------------------------------------------------------------------------
 st.sidebar.markdown(f"""
-<div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 26px; font-weight: bold; margin-bottom: 20px; color: {pro_text};">
+<div style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-size: 20px; font-weight: bold; margin-bottom: 20px; color: {pro_text};">
     📡 Customer Risk Intelligence
 </div>
 """, unsafe_allow_html=True)
@@ -401,7 +401,7 @@ if app_mode == "Dashboard":
                             font={'color': pro_text}
                         )
                         st.plotly_chart(fig_bar, use_container_width=True)
-                except: st.error("No importance data.")
+                except Exception as e: st.error(f"No importance data. Error: {e}")
                 
                 # --- DYNAMIC EXPLANATIONS ---
                 st.divider()
@@ -435,8 +435,20 @@ if app_mode == "Dashboard":
                 # Load Data for KDE (Simple Caching)
                 if 'df_raw' not in st.session_state:
                     try:
-                        DATA_PATH = r"E:\Microsoft\Dataset\WA_Fn-UseC_-Telco-Customer-Churn.csv"
-                        st.session_state['df_raw'] = pd.read_csv(DATA_PATH)
+                        # Try relative path first (Deployment friendly)
+                        BASE_DIR = os.path.dirname(__file__)
+                        POSSIBLE_PATHS = [
+                            os.path.join(BASE_DIR, "..", "Dataset", "WA_Fn-UseC_-Telco-Customer-Churn.csv"),
+                            r"E:\Microsoft\Dataset\WA_Fn-UseC_-Telco-Customer-Churn.csv"
+                        ]
+                        
+                        df_loaded = None
+                        for path in POSSIBLE_PATHS:
+                            if os.path.exists(path):
+                                df_loaded = pd.read_csv(path)
+                                break
+                        
+                        st.session_state['df_raw'] = df_loaded
                     except:
                         st.session_state['df_raw'] = None
 
