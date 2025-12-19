@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# VS Code
+.vscode/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Project specific (Optional: Uncomment if data/models shouldn't be committed)
+# data/
+# models/*.pkl

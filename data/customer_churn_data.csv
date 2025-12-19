@@ -1,0 +1,2001 @@
+CustomerID,Tenure_Months,Monthly_Bill,Total_Usage_GB,Support_Calls,Subscription_Type,Contract_Term,Churn
+C00001,52,90.34,559.94,1,Basic,Two year,0
+C00002,15,55.36,336.34,3,Basic,Month-to-month,0
+C00003,61,134.72,684.22,3,Basic,One year,0
+C00004,21,51.83,310.49,2,Basic,Month-to-month,0
+C00005,24,92.26,516.61,3,Basic,Two year,0
+C00006,3,78.98,366.7,0,Standard,Two year,0
+C00007,22,109.05,504.45,2,Premium,One year,1
+C00008,53,116.85,588.13,2,Basic,One year,0
+C00009,2,70.96,397.88,4,Premium,Month-to-month,1
+C00010,30,47.4,243.94,2,Basic,One year,0
+C00011,38,83.8,340.15,2,Basic,Month-to-month,0
+C00012,2,49.67,208.2,2,Basic,Month-to-month,1
+C00013,64,130.4,648.31,2,Standard,Two year,0
+C00014,60,74.1,366.7,1,Standard,Month-to-month,0
+C00015,21,59.04,393.83,2,Standard,Two year,0
+C00016,33,75.54,308.4,3,Standard,Month-to-month,0
+C00017,58,29.59,173.21,1,Standard,Month-to-month,0
+C00018,22,40.85,278.71,3,Standard,One year,0
+C00019,49,106.01,643.63,3,Premium,One year,1
+C00020,59,50.29,231.25,1,Basic,Two year,0
+C00021,42,38.59,217.53,1,Basic,One year,0
+C00022,60,86.1,458.99,4,Standard,Month-to-month,1
+C00023,15,105.57,537.63,2,Standard,Two year,0
+C00024,62,91.57,452.9,1,Basic,Two year,0
+C00025,62,99.88,521.21,1,Basic,Two year,0
+C00026,47,47.3,109.87,0,Standard,Month-to-month,0
+C00027,62,27.35,170.83,2,Standard,One year,0
+C00028,51,115.04,581.51,3,Basic,Two year,0
+C00029,55,60.32,290.47,2,Premium,Month-to-month,0
+C00030,64,62.48,414.72,1,Standard,One year,1
+C00031,3,109.85,515.48,1,Standard,One year,0
+C00032,51,86.69,413.28,4,Standard,Two year,0
+C00033,7,83.68,517.96,1,Premium,Month-to-month,0
+C00034,21,134.95,633.15,1,Basic,One year,0
+C00035,39,50.69,225.97,3,Basic,Month-to-month,0
+C00036,18,97.84,481.82,1,Standard,One year,0
+C00037,4,71.71,400.59,1,Standard,Two year,0
+C00038,60,78.06,400.68,3,Basic,Two year,0
+C00039,14,115.85,514.64,2,Premium,One year,0
+C00040,9,85.24,399.57,2,Standard,Month-to-month,1
+C00041,53,86.15,400.38,2,Basic,One year,0
+C00042,2,102.18,507.02,2,Basic,Month-to-month,0
+C00043,60,59.05,316.55,3,Basic,One year,0
+C00044,71,44.82,245.03,3,Standard,Two year,0
+C00045,44,38.66,104.48,5,Premium,Month-to-month,1
+C00046,8,20.0,153.2,1,Standard,Two year,0
+C00047,47,131.69,671.06,3,Premium,Month-to-month,0
+C00048,35,36.9,253.75,1,Premium,One year,0
+C00049,36,63.36,339.02,0,Standard,Two year,0
+C00050,50,61.7,363.54,2,Standard,Two year,0
+C00051,4,79.22,419.44,3,Standard,Month-to-month,1
+C00052,2,94.47,539.67,1,Standard,Month-to-month,0
+C00053,6,95.81,505.18,4,Basic,Month-to-month,1
+C00054,54,52.51,257.64,1,Standard,Two year,0
+C00055,4,64.99,438.55,0,Basic,One year,0
+C00056,54,78.48,436.84,2,Premium,Month-to-month,0
+C00057,63,62.54,341.38,0,Premium,One year,0
+C00058,18,118.22,527.29,4,Basic,Month-to-month,1
+C00059,44,84.73,359.23,1,Basic,One year,0
+C00060,34,92.05,474.87,2,Standard,Month-to-month,0
+C00061,62,89.89,456.71,1,Standard,One year,0
+C00062,14,105.2,495.31,1,Basic,Two year,0
+C00063,48,75.43,384.2,1,Standard,Month-to-month,0
+C00064,15,31.1,234.91,2,Basic,Month-to-month,1
+C00065,62,81.99,444.72,1,Basic,Two year,1
+C00066,40,50.46,195.25,2,Basic,Month-to-month,0
+C00067,53,54.14,265.13,3,Basic,Month-to-month,0
+C00068,24,87.59,397.71,4,Standard,Two year,0
+C00069,26,107.15,516.36,2,Premium,Two year,1
+C00070,60,70.64,332.51,2,Standard,One year,0
+C00071,41,79.26,372.44,3,Standard,Two year,0
+C00072,29,121.07,542.58,3,Basic,Two year,0
+C00073,15,77.22,379.73,2,Standard,Month-to-month,0
+C00074,45,148.05,712.22,3,Basic,Two year,0
+C00075,65,86.97,288.35,1,Standard,Month-to-month,0
+C00076,71,20.0,202.65,4,Premium,Two year,0
+C00077,9,92.6,517.44,0,Basic,Two year,0
+C00078,1,81.43,388.36,5,Standard,One year,0
+C00079,8,108.69,544.4,2,Basic,Two year,0
+C00080,63,90.2,392.39,1,Basic,Two year,1
+C00081,11,65.85,414.02,1,Basic,Month-to-month,1
+C00082,8,33.27,261.22,1,Basic,Month-to-month,1
+C00083,35,63.73,326.48,2,Basic,One year,0
+C00084,35,44.48,273.6,1,Basic,Two year,0
+C00085,33,52.58,271.69,4,Standard,Month-to-month,0
+C00086,5,87.66,371.45,3,Basic,Two year,1
+C00087,41,120.1,579.89,0,Standard,One year,1
+C00088,28,81.84,415.8,2,Premium,Month-to-month,0
+C00089,7,34.12,147.89,0,Standard,Month-to-month,1
+C00090,12,83.34,405.76,0,Basic,One year,0
+C00091,34,105.9,524.92,2,Basic,Two year,0
+C00092,33,51.71,254.49,3,Premium,Month-to-month,0
+C00093,48,65.98,332.51,2,Standard,Month-to-month,0
+C00094,23,70.44,299.17,2,Standard,One year,0
+C00095,62,46.45,196.41,1,Basic,One year,0
+C00096,37,89.45,383.01,0,Standard,One year,0
+C00097,44,66.37,380.75,2,Basic,Two year,0
+C00098,35,82.59,307.65,3,Premium,Two year,0
+C00099,65,43.38,274.56,3,Premium,Two year,0
+C00100,47,56.88,353.7,3,Basic,One year,0
+C00101,3,91.67,443.25,3,Standard,Month-to-month,1
+C00102,1,58.82,163.92,0,Basic,Two year,0
+C00103,5,121.81,590.98,1,Standard,One year,0
+C00104,14,58.01,286.85,2,Premium,Two year,0
+C00105,27,76.74,333.17,1,Standard,Month-to-month,0
+C00106,9,97.98,464.13,4,Basic,Month-to-month,1
+C00107,15,27.45,213.75,0,Basic,One year,0
+C00108,42,20.0,133.25,1,Premium,Month-to-month,0
+C00109,51,24.23,74.92,4,Standard,One year,0
+C00110,63,107.88,459.51,1,Standard,One year,1
+C00111,52,53.44,250.87,2,Basic,One year,0
+C00112,4,146.75,723.06,4,Basic,One year,0
+C00113,23,53.07,290.17,2,Premium,Month-to-month,0
+C00114,15,75.54,350.92,3,Standard,Month-to-month,1
+C00115,43,116.26,606.89,1,Standard,Month-to-month,1
+C00116,29,130.18,747.67,2,Standard,Month-to-month,0
+C00117,36,131.85,700.0,1,Standard,One year,0
+C00118,13,106.25,528.85,3,Basic,One year,0
+C00119,32,100.72,494.45,3,Basic,Month-to-month,0
+C00120,71,87.78,421.05,1,Standard,Two year,1
+C00121,59,93.35,525.79,3,Standard,Two year,0
+C00122,28,53.46,235.96,3,Standard,Two year,0
+C00123,66,45.45,229.53,3,Premium,Month-to-month,0
+C00124,42,69.9,352.05,2,Basic,One year,0
+C00125,45,64.89,299.38,0,Basic,One year,0
+C00126,62,56.4,213.39,4,Premium,Two year,0
+C00127,57,90.89,470.61,1,Standard,Two year,0
+C00128,6,98.66,490.25,2,Standard,One year,0
+C00129,28,72.65,388.27,2,Standard,Two year,0
+C00130,28,114.33,544.95,1,Standard,Two year,0
+C00131,44,35.75,239.79,2,Basic,One year,0
+C00132,30,64.19,277.11,6,Standard,Two year,1
+C00133,62,48.5,328.08,0,Premium,Two year,0
+C00134,62,20.0,12.62,4,Standard,Month-to-month,1
+C00135,1,67.52,359.34,2,Standard,Two year,1
+C00136,27,66.35,355.51,1,Basic,Month-to-month,0
+C00137,62,115.4,537.24,2,Basic,One year,0
+C00138,3,88.92,465.84,4,Basic,Month-to-month,0
+C00139,70,39.27,260.35,1,Basic,One year,0
+C00140,27,125.62,517.27,2,Premium,Month-to-month,0
+C00141,9,106.63,558.29,2,Standard,Month-to-month,1
+C00142,62,87.46,312.65,5,Standard,Month-to-month,0
+C00143,37,63.21,267.74,1,Standard,Two year,0
+C00144,51,41.22,287.54,0,Basic,Two year,0
+C00145,44,58.83,265.08,2,Premium,Two year,0
+C00146,24,102.66,454.62,1,Basic,Two year,0
+C00147,59,126.54,622.79,0,Basic,Two year,0
+C00148,32,116.3,684.88,1,Standard,Month-to-month,0
+C00149,52,55.33,185.09,1,Premium,Two year,0
+C00150,62,36.41,129.49,2,Premium,One year,0
+C00151,58,74.23,446.0,2,Basic,Month-to-month,0
+C00152,52,20.0,192.89,2,Premium,Month-to-month,0
+C00153,12,79.7,393.3,0,Basic,One year,1
+C00154,39,65.57,265.91,3,Basic,Two year,0
+C00155,2,56.02,384.89,1,Premium,One year,0
+C00156,3,22.16,190.52,1,Premium,Month-to-month,1
+C00157,56,85.41,460.99,3,Standard,Month-to-month,0
+C00158,59,54.02,229.47,1,Standard,Month-to-month,0
+C00159,2,34.9,172.06,0,Premium,One year,0
+C00160,2,20.0,91.98,1,Standard,Two year,1
+C00161,54,69.17,362.42,2,Premium,Month-to-month,0
+C00162,1,123.17,688.39,2,Standard,Two year,0
+C00163,19,119.84,643.16,1,Premium,Month-to-month,1
+C00164,2,56.29,227.57,1,Premium,Two year,0
+C00165,53,51.93,328.49,4,Basic,One year,0
+C00166,44,84.06,435.97,3,Premium,Month-to-month,0
+C00167,32,40.05,234.6,0,Standard,Month-to-month,0
+C00168,70,79.05,468.6,1,Basic,Month-to-month,0
+C00169,32,92.98,409.33,3,Standard,One year,0
+C00170,68,106.81,532.25,3,Basic,One year,0
+C00171,55,67.0,308.4,1,Standard,Two year,0
+C00172,56,63.89,241.06,2,Premium,One year,0
+C00173,17,43.66,235.64,3,Basic,Month-to-month,1
+C00174,38,45.19,351.55,1,Standard,Two year,1
+C00175,24,63.21,224.02,0,Premium,One year,0
+C00176,69,81.02,403.49,2,Standard,Two year,0
+C00177,70,97.41,519.06,3,Basic,Two year,0
+C00178,11,45.9,235.68,2,Standard,Two year,0
+C00179,16,114.78,568.25,3,Standard,Month-to-month,0
+C00180,59,61.87,244.37,0,Standard,Month-to-month,0
+C00181,70,69.36,358.43,2,Premium,One year,0
+C00182,3,47.58,200.08,4,Standard,Month-to-month,0
+C00183,20,20.0,10.0,4,Premium,Two year,0
+C00184,59,96.52,542.34,2,Standard,Two year,0
+C00185,36,92.11,508.45,2,Basic,Month-to-month,1
+C00186,19,61.56,310.38,1,Standard,Two year,0
+C00187,67,72.01,371.5,1,Standard,Month-to-month,0
+C00188,19,85.48,481.11,0,Standard,Two year,0
+C00189,20,23.12,126.84,2,Basic,One year,0
+C00190,71,54.13,315.84,0,Basic,One year,0
+C00191,52,93.83,454.27,1,Basic,Month-to-month,1
+C00192,33,32.37,227.46,3,Basic,Month-to-month,0
+C00193,40,78.81,410.07,0,Standard,Month-to-month,0
+C00194,39,29.3,156.22,2,Basic,Month-to-month,0
+C00195,1,83.99,356.46,1,Standard,Month-to-month,0
+C00196,11,68.93,359.0,2,Basic,Two year,0
+C00197,57,21.55,66.13,0,Basic,One year,0
+C00198,50,104.94,492.8,2,Standard,Two year,1
+C00199,23,47.96,199.04,1,Basic,One year,0
+C00200,31,45.69,175.15,3,Premium,Two year,0
+C00201,42,76.02,486.32,3,Basic,Two year,0
+C00202,7,104.46,588.86,2,Standard,Two year,1
+C00203,16,39.53,293.65,2,Premium,Month-to-month,0
+C00204,60,71.85,298.11,2,Standard,One year,0
+C00205,2,82.86,417.89,0,Basic,Month-to-month,1
+C00206,1,90.79,389.29,2,Standard,Month-to-month,1
+C00207,48,75.29,341.68,2,Standard,Two year,0
+C00208,12,58.99,249.04,1,Premium,One year,0
+C00209,69,45.17,287.84,3,Premium,One year,0
+C00210,37,72.58,343.11,1,Basic,One year,0
+C00211,32,37.84,242.6,1,Premium,One year,0
+C00212,9,20.0,130.21,2,Basic,Month-to-month,1
+C00213,19,83.1,530.67,1,Basic,Month-to-month,1
+C00214,48,97.12,411.62,1,Premium,One year,0
+C00215,3,20.0,162.96,0,Basic,Month-to-month,1
+C00216,20,39.71,255.86,3,Basic,One year,0
+C00217,24,88.57,394.2,2,Basic,Month-to-month,1
+C00218,54,131.72,708.98,2,Standard,Two year,0
+C00219,33,70.62,369.93,4,Standard,Two year,0
+C00220,24,48.16,229.43,1,Standard,One year,1
+C00221,36,64.51,281.37,3,Basic,One year,0
+C00222,38,111.25,520.28,2,Standard,Month-to-month,0
+C00223,25,50.62,355.6,2,Premium,One year,0
+C00224,18,46.02,230.16,1,Premium,One year,0
+C00225,66,55.52,316.69,3,Basic,Month-to-month,1
+C00226,54,41.4,167.46,1,Premium,One year,1
+C00227,35,73.68,329.41,2,Standard,One year,0
+C00228,61,118.74,647.8,1,Basic,Two year,0
+C00229,41,79.69,330.98,3,Basic,Two year,0
+C00230,33,62.43,291.39,3,Basic,Two year,0
+C00231,68,61.25,307.93,1,Standard,One year,0
+C00232,33,23.1,121.09,2,Basic,Month-to-month,0
+C00233,14,96.49,473.51,0,Standard,Two year,1
+C00234,21,67.66,358.12,2,Basic,One year,0
+C00235,48,64.59,357.57,2,Premium,Two year,0
+C00236,20,150.0,786.73,0,Basic,Month-to-month,0
+C00237,8,78.96,345.52,3,Premium,Month-to-month,0
+C00238,7,47.45,223.02,4,Premium,Month-to-month,1
+C00239,67,57.21,345.78,0,Basic,Month-to-month,0
+C00240,17,104.45,567.0,3,Standard,Month-to-month,1
+C00241,33,73.4,298.35,1,Basic,Month-to-month,0
+C00242,48,26.85,151.83,2,Premium,One year,0
+C00243,59,97.58,388.97,3,Standard,Two year,0
+C00244,22,49.96,252.13,2,Basic,Month-to-month,0
+C00245,30,126.2,725.88,0,Basic,Two year,0
+C00246,38,102.4,464.61,0,Basic,Two year,0
+C00247,51,56.58,241.19,1,Premium,One year,0
+C00248,54,108.43,580.35,4,Standard,Month-to-month,0
+C00249,8,72.04,283.04,1,Premium,Month-to-month,0
+C00250,27,95.58,446.28,0,Basic,One year,0
+C00251,27,84.54,452.53,2,Basic,One year,0
+C00252,21,44.61,191.33,0,Premium,One year,1
+C00253,30,50.69,241.67,3,Basic,One year,0
+C00254,28,100.9,541.7,3,Premium,One year,0
+C00255,64,59.96,320.86,2,Basic,Two year,0
+C00256,69,57.89,302.79,4,Basic,One year,0
+C00257,61,41.35,189.78,0,Standard,Month-to-month,0
+C00258,48,82.71,432.04,4,Premium,Month-to-month,0
+C00259,19,131.88,653.19,1,Premium,One year,0
+C00260,4,37.97,212.76,2,Basic,One year,0
+C00261,35,70.73,328.79,1,Basic,One year,1
+C00262,64,112.37,552.7,1,Standard,One year,0
+C00263,49,67.61,288.56,4,Standard,One year,0
+C00264,17,83.57,416.11,0,Standard,Month-to-month,0
+C00265,44,38.13,150.09,0,Basic,Two year,1
+C00266,30,82.85,358.54,3,Premium,One year,0
+C00267,46,64.39,334.86,1,Standard,One year,0
+C00268,6,99.57,508.5,2,Premium,One year,1
+C00269,37,105.62,567.25,1,Standard,Month-to-month,0
+C00270,24,147.69,716.88,2,Standard,Month-to-month,0
+C00271,46,87.39,457.35,3,Premium,Two year,0
+C00272,53,79.77,426.41,3,Standard,Two year,1
+C00273,60,75.83,401.4,1,Premium,Two year,0
+C00274,63,59.41,255.74,1,Premium,Two year,0
+C00275,32,80.15,408.24,1,Standard,Month-to-month,0
+C00276,33,61.14,323.9,2,Standard,Two year,0
+C00277,67,75.05,375.63,2,Basic,One year,0
+C00278,18,109.53,443.32,4,Basic,Month-to-month,0
+C00279,25,39.8,207.04,4,Basic,Month-to-month,1
+C00280,54,104.2,631.61,4,Basic,Month-to-month,0
+C00281,58,109.51,529.57,2,Basic,One year,0
+C00282,67,66.46,295.89,2,Basic,Month-to-month,0
+C00283,46,20.0,118.67,0,Basic,One year,0
+C00284,24,51.77,274.45,2,Standard,Two year,1
+C00285,32,108.91,604.19,1,Basic,Month-to-month,0
+C00286,47,69.31,283.68,2,Basic,One year,0
+C00287,23,40.02,236.67,2,Standard,Month-to-month,0
+C00288,66,54.86,303.8,1,Standard,Two year,0
+C00289,27,95.22,468.99,5,Standard,Month-to-month,0
+C00290,2,86.4,448.94,1,Standard,Two year,0
+C00291,17,62.83,365.63,3,Premium,Month-to-month,1
+C00292,33,59.0,338.59,2,Standard,One year,0
+C00293,9,58.25,234.09,3,Standard,Two year,0
+C00294,43,42.33,252.65,4,Premium,Month-to-month,1
+C00295,48,118.46,589.07,1,Premium,Two year,0
+C00296,39,60.33,305.3,0,Standard,Two year,0
+C00297,42,106.51,536.23,4,Standard,One year,0
+C00298,26,115.64,570.69,3,Basic,One year,0
+C00299,50,99.95,559.33,1,Standard,One year,0
+C00300,25,57.05,281.07,2,Premium,One year,0
+C00301,24,82.11,354.58,4,Standard,Two year,0
+C00302,13,69.27,326.69,3,Premium,Two year,0
+C00303,60,42.89,223.38,1,Standard,Month-to-month,0
+C00304,7,79.73,460.11,0,Premium,Month-to-month,0
+C00305,57,34.63,203.3,4,Standard,Month-to-month,0
+C00306,36,105.63,485.63,1,Basic,One year,0
+C00307,45,56.06,404.57,1,Standard,Two year,0
+C00308,20,76.03,393.41,3,Basic,Two year,0
+C00309,65,78.5,456.26,3,Basic,Month-to-month,1
+C00310,8,62.23,303.58,2,Premium,Month-to-month,1
+C00311,16,87.6,464.67,0,Basic,Two year,0
+C00312,14,55.75,320.74,3,Standard,One year,0
+C00313,15,96.14,541.6,1,Basic,Month-to-month,0
+C00314,66,29.62,200.97,1,Basic,Month-to-month,1
+C00315,32,73.79,412.57,2,Premium,Two year,0
+C00316,63,128.17,625.09,1,Basic,Two year,0
+C00317,51,39.99,171.36,1,Standard,Month-to-month,0
+C00318,25,49.67,264.97,2,Standard,Month-to-month,0
+C00319,58,85.42,473.74,1,Standard,One year,0
+C00320,63,75.39,365.8,3,Premium,One year,0
+C00321,62,80.52,455.85,1,Standard,One year,0
+C00322,22,84.68,496.01,1,Standard,One year,0
+C00323,58,89.04,399.39,4,Premium,Month-to-month,0
+C00324,58,103.29,474.61,1,Basic,Month-to-month,0
+C00325,49,82.29,404.45,3,Standard,Month-to-month,0
+C00326,52,62.76,329.19,1,Premium,One year,0
+C00327,42,90.18,424.66,0,Standard,Month-to-month,1
+C00328,70,127.0,702.59,3,Premium,Two year,0
+C00329,15,66.02,351.31,1,Standard,One year,0
+C00330,54,40.76,205.79,0,Premium,Two year,0
+C00331,60,103.21,444.27,3,Premium,One year,0
+C00332,8,66.39,266.15,1,Basic,Month-to-month,1
+C00333,53,20.0,114.05,1,Basic,One year,0
+C00334,60,95.42,370.48,4,Standard,Two year,0
+C00335,5,53.94,320.33,2,Standard,One year,0
+C00336,68,67.28,328.51,3,Basic,Two year,0
+C00337,6,79.96,561.95,2,Basic,Month-to-month,0
+C00338,47,75.71,493.97,1,Basic,Two year,0
+C00339,55,91.28,447.35,0,Premium,Month-to-month,0
+C00340,40,56.94,279.36,2,Standard,Two year,0
+C00341,52,85.39,476.74,0,Standard,Month-to-month,0
+C00342,16,62.21,396.23,3,Basic,Two year,1
+C00343,13,92.16,378.92,1,Basic,Month-to-month,1
+C00344,30,88.46,352.99,0,Basic,Month-to-month,0
+C00345,19,41.94,178.58,1,Basic,Month-to-month,1
+C00346,17,102.58,542.03,1,Premium,Two year,0
+C00347,63,53.92,294.45,4,Premium,Two year,0
+C00348,19,94.24,524.7,3,Basic,Month-to-month,1
+C00349,58,81.02,345.11,3,Basic,One year,0
+C00350,55,125.15,509.92,1,Basic,Month-to-month,0
+C00351,62,63.3,359.38,2,Standard,One year,0
+C00352,23,59.52,256.19,3,Basic,Month-to-month,0
+C00353,9,69.42,246.16,3,Basic,Two year,0
+C00354,12,60.9,311.78,4,Basic,One year,1
+C00355,1,94.0,509.65,0,Standard,Two year,0
+C00356,58,21.51,101.45,0,Standard,One year,0
+C00357,1,38.39,169.06,3,Standard,One year,0
+C00358,34,37.97,181.86,2,Basic,One year,0
+C00359,48,98.51,474.02,1,Premium,One year,0
+C00360,1,121.32,539.19,1,Premium,Two year,0
+C00361,16,66.87,298.6,1,Basic,One year,0
+C00362,61,64.94,350.74,3,Basic,Month-to-month,0
+C00363,64,72.1,376.59,1,Standard,Month-to-month,0
+C00364,63,104.86,532.68,0,Basic,One year,0
+C00365,69,42.18,161.14,1,Standard,Two year,0
+C00366,22,77.15,376.68,5,Standard,Two year,1
+C00367,67,99.26,387.43,1,Standard,One year,0
+C00368,26,85.03,434.09,0,Basic,Two year,0
+C00369,16,75.69,449.88,3,Standard,Two year,0
+C00370,51,100.03,426.45,2,Premium,Two year,0
+C00371,57,20.0,70.7,1,Basic,One year,0
+C00372,29,90.34,468.14,1,Standard,Month-to-month,0
+C00373,69,50.38,314.53,4,Basic,Month-to-month,0
+C00374,47,20.0,77.59,1,Basic,Month-to-month,0
+C00375,62,85.34,392.07,2,Standard,Month-to-month,0
+C00376,69,111.21,457.6,2,Basic,Month-to-month,0
+C00377,16,65.88,334.55,1,Basic,Two year,0
+C00378,48,98.59,595.03,4,Basic,Two year,0
+C00379,39,118.37,605.71,1,Standard,Two year,0
+C00380,33,109.45,546.12,0,Standard,One year,0
+C00381,23,119.2,612.1,2,Basic,Two year,1
+C00382,10,92.26,460.76,0,Standard,Month-to-month,0
+C00383,69,72.26,320.66,3,Basic,Two year,0
+C00384,34,21.94,150.87,0,Standard,Month-to-month,0
+C00385,52,62.62,324.38,5,Standard,Two year,0
+C00386,10,44.7,224.39,3,Standard,Month-to-month,0
+C00387,19,135.13,626.87,1,Premium,Two year,0
+C00388,58,64.72,388.79,2,Premium,Month-to-month,0
+C00389,1,73.7,401.72,2,Basic,Month-to-month,1
+C00390,69,86.54,405.08,2,Premium,One year,1
+C00391,4,71.31,406.63,1,Basic,Two year,0
+C00392,16,120.85,579.38,4,Premium,Month-to-month,1
+C00393,24,51.32,217.5,1,Basic,Two year,0
+C00394,2,75.84,341.21,4,Basic,Month-to-month,0
+C00395,32,47.73,150.08,0,Basic,One year,1
+C00396,24,30.4,175.57,2,Basic,One year,0
+C00397,12,51.65,166.68,2,Standard,One year,0
+C00398,50,68.89,283.02,1,Premium,One year,0
+C00399,35,57.12,181.83,4,Standard,Month-to-month,1
+C00400,33,49.23,241.83,2,Standard,Two year,0
+C00401,33,27.81,131.54,4,Standard,One year,0
+C00402,61,67.51,321.2,2,Basic,One year,0
+C00403,51,24.86,72.16,3,Basic,One year,0
+C00404,43,92.8,405.4,3,Basic,Two year,0
+C00405,12,72.47,385.58,1,Basic,Month-to-month,1
+C00406,67,26.27,103.84,0,Basic,Month-to-month,0
+C00407,65,60.72,319.44,1,Basic,Month-to-month,0
+C00408,33,47.44,192.91,2,Basic,Month-to-month,0
+C00409,40,79.58,406.93,2,Basic,Two year,0
+C00410,43,110.21,616.23,4,Premium,Two year,0
+C00411,44,20.0,129.31,1,Basic,Two year,0
+C00412,29,73.45,346.63,3,Standard,One year,0
+C00413,13,65.2,338.84,4,Standard,Two year,0
+C00414,12,90.14,438.67,4,Standard,Month-to-month,1
+C00415,46,76.4,382.37,1,Basic,Two year,1
+C00416,2,47.44,220.92,2,Basic,One year,0
+C00417,35,60.43,293.93,3,Basic,Month-to-month,0
+C00418,8,46.12,241.2,0,Basic,Two year,0
+C00419,26,102.28,461.73,1,Basic,Month-to-month,0
+C00420,34,70.64,302.4,2,Standard,Month-to-month,0
+C00421,7,127.04,565.75,3,Standard,Two year,0
+C00422,68,68.18,260.89,2,Standard,Two year,0
+C00423,58,48.75,182.87,1,Standard,One year,0
+C00424,29,24.59,130.92,1,Basic,Two year,0
+C00425,36,20.0,55.36,0,Premium,Two year,0
+C00426,21,22.48,138.06,2,Basic,Two year,1
+C00427,36,78.01,391.8,2,Standard,Month-to-month,0
+C00428,10,85.26,327.88,1,Standard,One year,0
+C00429,24,22.56,145.57,2,Standard,Month-to-month,0
+C00430,64,96.85,524.8,3,Basic,Two year,0
+C00431,49,55.51,227.85,2,Standard,One year,0
+C00432,36,74.4,393.03,2,Basic,Two year,1
+C00433,24,118.37,549.01,3,Basic,Month-to-month,0
+C00434,23,96.91,489.41,2,Basic,Month-to-month,1
+C00435,62,61.94,246.5,2,Basic,Two year,0
+C00436,37,43.26,126.67,1,Standard,One year,0
+C00437,12,20.0,80.86,4,Premium,Month-to-month,1
+C00438,55,48.43,235.94,5,Basic,Two year,0
+C00439,13,63.67,298.45,1,Premium,Two year,1
+C00440,23,40.38,142.72,1,Premium,Two year,0
+C00441,30,66.06,310.32,4,Premium,One year,0
+C00442,17,72.31,374.99,2,Premium,Two year,0
+C00443,62,63.25,314.03,4,Basic,Two year,0
+C00444,13,50.5,261.62,3,Basic,Month-to-month,0
+C00445,59,75.06,341.79,2,Standard,Two year,0
+C00446,19,83.26,474.88,2,Standard,One year,0
+C00447,49,37.29,127.63,0,Premium,Two year,0
+C00448,12,112.33,586.02,2,Premium,One year,0
+C00449,61,67.04,394.31,0,Standard,Two year,1
+C00450,19,70.57,376.87,4,Basic,Two year,0
+C00451,9,91.25,446.11,3,Basic,Two year,0
+C00452,71,77.0,358.57,3,Basic,One year,0
+C00453,28,98.59,544.77,0,Standard,Month-to-month,0
+C00454,52,78.61,321.92,4,Standard,One year,0
+C00455,16,51.63,209.63,2,Premium,Month-to-month,1
+C00456,69,80.85,384.35,1,Standard,One year,0
+C00457,12,35.69,240.32,1,Premium,Two year,0
+C00458,25,73.26,385.27,3,Standard,Two year,0
+C00459,52,69.0,296.61,2,Premium,Month-to-month,1
+C00460,53,63.76,303.27,1,Basic,Month-to-month,0
+C00461,23,66.14,300.0,2,Premium,One year,0
+C00462,16,20.0,64.51,1,Standard,One year,1
+C00463,57,53.54,316.64,2,Basic,Month-to-month,0
+C00464,39,72.79,295.34,3,Basic,Month-to-month,0
+C00465,53,74.8,454.42,2,Premium,One year,0
+C00466,42,39.17,237.26,1,Basic,Month-to-month,0
+C00467,58,107.97,594.4,0,Standard,Month-to-month,0
+C00468,39,44.01,196.93,0,Basic,Month-to-month,0
+C00469,14,99.08,487.92,1,Standard,Month-to-month,0
+C00470,5,82.82,342.42,2,Premium,Two year,0
+C00471,35,50.61,226.83,2,Basic,Two year,0
+C00472,18,123.26,640.98,2,Standard,Month-to-month,0
+C00473,9,34.19,235.76,1,Premium,One year,1
+C00474,58,97.57,432.52,1,Standard,Two year,0
+C00475,17,100.02,481.81,2,Premium,One year,0
+C00476,7,49.88,241.84,0,Standard,One year,0
+C00477,46,111.77,489.08,1,Basic,Two year,0
+C00478,13,62.5,342.06,3,Standard,One year,1
+C00479,40,78.66,357.1,0,Standard,One year,0
+C00480,42,77.81,379.28,0,Basic,Month-to-month,0
+C00481,9,65.97,307.26,1,Basic,Month-to-month,1
+C00482,50,94.32,432.15,1,Basic,Month-to-month,0
+C00483,27,93.8,468.67,0,Standard,Two year,1
+C00484,66,20.0,89.22,2,Premium,Month-to-month,1
+C00485,5,109.13,527.06,2,Basic,One year,0
+C00486,29,20.13,64.2,2,Standard,One year,0
+C00487,37,100.98,520.86,0,Premium,One year,1
+C00488,38,103.8,601.69,3,Basic,One year,0
+C00489,8,37.27,193.35,0,Standard,One year,0
+C00490,65,57.68,338.18,2,Premium,Two year,0
+C00491,17,36.83,114.63,3,Premium,One year,0
+C00492,71,63.55,325.65,4,Basic,Two year,0
+C00493,45,60.76,248.93,2,Basic,One year,0
+C00494,4,93.39,393.1,2,Basic,Two year,0
+C00495,36,109.31,509.58,1,Standard,Two year,0
+C00496,70,111.87,618.95,4,Standard,One year,1
+C00497,31,53.13,313.18,3,Standard,One year,0
+C00498,19,63.72,330.77,3,Basic,One year,0
+C00499,61,20.0,23.36,2,Basic,One year,0
+C00500,54,45.82,219.31,1,Standard,Month-to-month,0
+C00501,39,98.95,509.81,3,Standard,Month-to-month,0
+C00502,19,118.47,601.11,1,Standard,Two year,0
+C00503,39,32.97,72.66,0,Standard,Two year,0
+C00504,67,52.23,216.61,3,Basic,Month-to-month,0
+C00505,45,69.21,342.84,2,Basic,Two year,0
+C00506,13,78.4,418.84,3,Basic,One year,0
+C00507,58,45.71,118.75,3,Basic,Two year,0
+C00508,20,82.72,405.5,0,Basic,Two year,0
+C00509,61,55.78,286.08,3,Basic,Two year,0
+C00510,39,69.57,390.31,2,Basic,Month-to-month,0
+C00511,1,86.39,466.59,2,Basic,Month-to-month,0
+C00512,3,70.19,380.09,3,Standard,Two year,0
+C00513,62,56.91,244.55,1,Basic,One year,0
+C00514,63,66.71,238.16,1,Standard,Two year,1
+C00515,25,67.35,317.09,2,Standard,Month-to-month,0
+C00516,56,58.9,344.58,1,Standard,One year,0
+C00517,33,62.24,380.85,0,Premium,Two year,0
+C00518,38,117.96,625.32,2,Basic,Month-to-month,0
+C00519,6,86.83,455.6,4,Standard,One year,0
+C00520,58,61.14,324.66,2,Premium,Two year,0
+C00521,44,90.91,426.74,0,Premium,Month-to-month,0
+C00522,45,59.99,293.42,1,Basic,One year,0
+C00523,32,105.19,609.42,5,Basic,Two year,0
+C00524,45,81.09,358.32,4,Basic,One year,0
+C00525,61,66.78,414.64,4,Standard,One year,0
+C00526,47,83.43,401.06,4,Standard,One year,0
+C00527,21,22.87,180.64,3,Basic,Month-to-month,0
+C00528,36,36.2,110.64,2,Standard,Two year,0
+C00529,19,34.18,200.21,1,Standard,One year,0
+C00530,20,74.29,334.6,1,Standard,One year,0
+C00531,57,121.98,539.11,1,Premium,One year,0
+C00532,18,136.94,695.62,0,Standard,Month-to-month,1
+C00533,47,89.14,496.18,1,Basic,One year,0
+C00534,49,85.03,382.88,4,Standard,Month-to-month,0
+C00535,14,20.0,25.05,0,Basic,Month-to-month,0
+C00536,15,53.72,264.01,1,Standard,One year,0
+C00537,31,46.37,227.46,3,Premium,One year,0
+C00538,1,51.37,284.29,1,Premium,Month-to-month,1
+C00539,54,64.96,372.26,2,Standard,Month-to-month,0
+C00540,3,55.84,276.22,1,Basic,One year,0
+C00541,16,20.0,192.78,2,Basic,Month-to-month,0
+C00542,57,92.44,473.4,3,Standard,Month-to-month,1
+C00543,12,37.82,171.77,1,Basic,One year,1
+C00544,16,77.18,305.31,5,Standard,One year,0
+C00545,24,132.22,647.98,5,Basic,Two year,0
+C00546,28,42.42,195.27,1,Basic,One year,0
+C00547,8,20.0,148.02,0,Basic,One year,0
+C00548,36,61.42,330.22,1,Premium,One year,0
+C00549,8,103.03,456.18,3,Standard,Two year,0
+C00550,58,128.75,652.36,1,Basic,Month-to-month,0
+C00551,60,33.11,199.14,0,Basic,One year,0
+C00552,50,84.9,500.91,3,Standard,One year,0
+C00553,28,56.04,324.58,2,Basic,Two year,0
+C00554,41,66.82,372.15,0,Standard,Two year,0
+C00555,64,149.33,749.66,0,Premium,Two year,0
+C00556,27,24.91,143.97,1,Standard,Month-to-month,0
+C00557,63,77.61,450.54,2,Standard,Two year,0
+C00558,17,84.03,353.52,1,Standard,Month-to-month,1
+C00559,33,102.57,495.4,0,Premium,One year,0
+C00560,29,72.94,326.07,3,Premium,One year,0
+C00561,13,79.24,415.17,0,Standard,One year,0
+C00562,46,58.25,352.76,2,Basic,Two year,0
+C00563,35,78.07,360.52,1,Standard,One year,0
+C00564,6,59.7,179.01,1,Basic,Two year,0
+C00565,69,88.65,422.62,3,Standard,Month-to-month,0
+C00566,47,58.91,340.23,2,Standard,One year,0
+C00567,25,81.31,433.45,3,Basic,Month-to-month,1
+C00568,66,69.12,367.02,3,Basic,Two year,0
+C00569,10,103.78,504.91,5,Standard,Two year,0
+C00570,56,68.46,278.34,2,Premium,One year,0
+C00571,30,20.0,125.76,0,Standard,One year,0
+C00572,5,107.86,497.57,1,Standard,Two year,0
+C00573,33,42.83,323.34,1,Basic,One year,0
+C00574,65,50.39,280.46,2,Standard,One year,0
+C00575,18,52.13,231.62,3,Standard,Month-to-month,0
+C00576,49,111.23,525.6,4,Standard,Two year,0
+C00577,11,20.0,95.35,0,Basic,Month-to-month,0
+C00578,26,150.0,738.02,1,Standard,One year,0
+C00579,63,101.68,564.25,2,Basic,Month-to-month,0
+C00580,59,76.7,392.81,2,Basic,Two year,0
+C00581,27,68.35,305.18,3,Premium,Month-to-month,1
+C00582,49,78.57,487.36,1,Basic,Month-to-month,0
+C00583,33,85.63,430.63,1,Basic,One year,0
+C00584,1,89.36,485.22,2,Standard,Two year,1
+C00585,21,86.67,402.93,0,Premium,One year,0
+C00586,55,72.69,381.59,3,Standard,One year,0
+C00587,6,64.08,335.95,3,Standard,Two year,0
+C00588,69,65.46,232.83,3,Premium,Month-to-month,0
+C00589,5,64.15,421.53,3,Basic,One year,1
+C00590,3,104.01,584.6,2,Basic,Month-to-month,0
+C00591,53,87.81,419.17,5,Basic,Two year,0
+C00592,23,20.0,44.89,3,Premium,One year,0
+C00593,53,89.68,465.76,1,Basic,Month-to-month,1
+C00594,37,75.84,383.55,4,Basic,Month-to-month,0
+C00595,17,69.44,364.98,2,Standard,One year,0
+C00596,1,58.34,301.3,2,Standard,Two year,0
+C00597,51,103.72,543.93,0,Standard,Month-to-month,0
+C00598,45,98.43,564.49,1,Standard,Two year,0
+C00599,4,46.81,262.47,2,Basic,One year,0
+C00600,62,82.21,358.58,1,Standard,Month-to-month,0
+C00601,65,40.85,272.38,3,Standard,Month-to-month,0
+C00602,32,28.61,225.09,5,Premium,Month-to-month,0
+C00603,34,51.2,413.6,2,Basic,Two year,0
+C00604,39,95.87,423.18,2,Premium,Month-to-month,0
+C00605,26,98.59,505.11,2,Standard,Month-to-month,0
+C00606,34,85.39,322.86,1,Basic,One year,0
+C00607,54,91.75,486.42,1,Standard,Month-to-month,0
+C00608,3,85.49,400.02,3,Basic,Two year,0
+C00609,50,50.76,349.95,4,Premium,One year,0
+C00610,12,82.96,376.06,2,Premium,One year,1
+C00611,65,94.01,385.6,4,Basic,Month-to-month,0
+C00612,54,92.63,439.58,2,Basic,One year,0
+C00613,5,105.67,429.56,3,Basic,Month-to-month,0
+C00614,57,91.25,493.8,2,Basic,One year,0
+C00615,17,80.54,299.46,3,Basic,Two year,0
+C00616,47,102.1,511.95,2,Basic,Month-to-month,0
+C00617,23,69.2,242.13,3,Standard,Two year,0
+C00618,14,43.54,201.7,0,Basic,Month-to-month,0
+C00619,66,65.11,407.71,2,Premium,Two year,0
+C00620,51,47.65,256.3,2,Premium,Two year,0
+C00621,38,49.74,205.55,3,Standard,One year,0
+C00622,64,65.66,326.76,2,Premium,Month-to-month,0
+C00623,38,46.23,232.04,0,Basic,One year,0
+C00624,50,60.76,327.44,1,Basic,Two year,0
+C00625,30,20.0,31.66,4,Standard,Month-to-month,1
+C00626,51,76.4,411.62,2,Standard,Two year,0
+C00627,63,70.04,214.96,2,Standard,Two year,0
+C00628,52,45.49,195.94,1,Premium,Two year,0
+C00629,38,89.78,424.47,2,Premium,Two year,1
+C00630,30,98.13,522.3,1,Standard,One year,0
+C00631,51,21.77,110.0,2,Standard,Two year,1
+C00632,5,47.12,165.31,1,Basic,One year,0
+C00633,29,46.93,185.38,2,Basic,Two year,0
+C00634,4,41.8,218.95,1,Standard,Month-to-month,1
+C00635,10,94.88,470.47,3,Standard,Two year,0
+C00636,56,64.19,291.97,1,Standard,Two year,0
+C00637,17,62.06,286.28,2,Basic,Month-to-month,0
+C00638,17,20.0,134.81,1,Standard,Month-to-month,0
+C00639,69,89.06,419.43,0,Basic,Two year,0
+C00640,34,32.82,159.71,1,Standard,Two year,0
+C00641,6,71.8,467.49,2,Basic,One year,0
+C00642,53,78.32,320.42,0,Basic,Month-to-month,0
+C00643,66,110.82,461.51,2,Basic,Month-to-month,0
+C00644,43,30.74,192.86,2,Basic,One year,1
+C00645,23,20.0,66.07,0,Premium,Two year,0
+C00646,55,75.52,361.67,1,Basic,Two year,0
+C00647,16,124.02,581.02,2,Basic,Month-to-month,0
+C00648,8,107.17,522.85,0,Standard,One year,0
+C00649,4,76.29,461.38,4,Standard,Two year,0
+C00650,4,55.25,316.36,4,Basic,Month-to-month,1
+C00651,56,94.21,514.18,1,Basic,Two year,0
+C00652,25,40.79,133.16,2,Premium,Two year,0
+C00653,67,84.29,363.9,3,Standard,Two year,0
+C00654,67,85.16,283.87,4,Basic,Month-to-month,0
+C00655,27,101.81,468.56,3,Standard,One year,0
+C00656,32,150.0,797.84,1,Basic,One year,0
+C00657,50,81.77,434.71,3,Basic,Two year,1
+C00658,61,54.73,262.58,1,Standard,One year,0
+C00659,51,69.23,345.05,1,Premium,Two year,0
+C00660,19,20.0,65.56,1,Basic,Month-to-month,0
+C00661,21,49.16,256.03,3,Premium,Month-to-month,0
+C00662,5,57.72,326.9,0,Basic,Month-to-month,0
+C00663,42,54.28,190.59,3,Basic,Two year,0
+C00664,61,74.57,387.84,0,Basic,One year,0
+C00665,22,45.33,273.26,2,Basic,Month-to-month,0
+C00666,21,103.63,497.4,0,Premium,Two year,1
+C00667,70,70.01,385.07,0,Standard,One year,0
+C00668,1,69.72,489.34,0,Basic,One year,0
+C00669,5,60.16,295.6,1,Premium,One year,0
+C00670,12,74.66,392.94,1,Premium,Two year,0
+C00671,46,94.75,436.86,3,Standard,Two year,0
+C00672,34,43.99,228.99,1,Premium,Two year,0
+C00673,49,50.26,274.3,0,Basic,Month-to-month,0
+C00674,45,60.89,314.18,3,Premium,Two year,0
+C00675,27,29.62,97.13,2,Standard,Month-to-month,0
+C00676,26,45.42,237.43,1,Premium,Month-to-month,0
+C00677,47,55.71,351.68,1,Standard,Month-to-month,0
+C00678,56,96.23,503.59,3,Basic,Two year,0
+C00679,63,77.88,437.48,3,Standard,Month-to-month,0
+C00680,48,75.81,367.19,1,Basic,Two year,0
+C00681,61,95.53,515.13,2,Basic,Two year,1
+C00682,26,65.88,343.36,3,Basic,Month-to-month,0
+C00683,36,81.71,361.02,2,Premium,Month-to-month,0
+C00684,1,66.9,350.44,1,Basic,Month-to-month,0
+C00685,8,77.96,340.22,2,Standard,Two year,0
+C00686,52,52.52,230.94,1,Basic,Two year,0
+C00687,47,20.0,109.47,2,Premium,Month-to-month,0
+C00688,56,65.97,344.72,4,Basic,Month-to-month,1
+C00689,14,112.68,503.95,1,Standard,One year,0
+C00690,28,97.79,541.63,0,Premium,Month-to-month,0
+C00691,2,98.96,523.41,1,Standard,One year,1
+C00692,26,107.08,500.18,4,Basic,One year,0
+C00693,14,72.66,286.42,2,Standard,Two year,0
+C00694,59,75.92,372.35,0,Premium,Two year,0
+C00695,56,51.47,235.06,1,Standard,One year,0
+C00696,7,60.52,308.25,0,Basic,One year,0
+C00697,3,88.47,424.21,3,Premium,Month-to-month,0
+C00698,23,106.12,430.21,1,Basic,One year,0
+C00699,18,65.82,309.67,2,Standard,Month-to-month,1
+C00700,38,56.49,267.19,2,Premium,Two year,0
+C00701,15,70.02,381.76,3,Basic,Month-to-month,1
+C00702,64,88.04,405.27,2,Standard,Two year,0
+C00703,28,26.68,217.36,1,Standard,One year,0
+C00704,39,20.0,10.0,4,Premium,One year,0
+C00705,57,53.48,332.98,2,Basic,One year,0
+C00706,17,33.38,155.68,2,Standard,Month-to-month,1
+C00707,44,54.76,316.76,1,Premium,Two year,0
+C00708,25,65.57,331.82,4,Basic,Two year,0
+C00709,17,56.4,338.99,1,Basic,Two year,0
+C00710,13,113.57,548.5,3,Premium,Two year,0
+C00711,25,79.8,344.08,2,Basic,Two year,0
+C00712,68,79.01,466.1,1,Premium,Month-to-month,0
+C00713,10,88.67,437.66,1,Basic,Two year,0
+C00714,67,35.84,190.25,0,Basic,One year,0
+C00715,18,101.17,567.6,1,Standard,Two year,0
+C00716,34,67.73,287.04,1,Standard,One year,0
+C00717,8,90.11,480.35,1,Standard,Month-to-month,1
+C00718,40,37.84,159.73,3,Standard,Month-to-month,0
+C00719,42,23.39,110.33,2,Premium,One year,1
+C00720,41,94.54,476.3,3,Basic,Two year,0
+C00721,6,81.29,331.45,0,Standard,Month-to-month,0
+C00722,52,42.94,175.75,1,Basic,Month-to-month,0
+C00723,26,43.91,287.1,1,Standard,Month-to-month,0
+C00724,64,103.76,563.12,5,Basic,Two year,0
+C00725,59,34.32,168.46,5,Basic,One year,0
+C00726,56,119.28,608.56,3,Standard,One year,0
+C00727,59,42.98,200.19,3,Basic,Two year,0
+C00728,70,89.15,513.59,2,Basic,Month-to-month,0
+C00729,33,60.14,290.69,2,Standard,Two year,0
+C00730,53,88.1,452.07,2,Standard,Two year,0
+C00731,22,53.68,325.68,0,Premium,One year,0
+C00732,21,65.12,286.71,2,Standard,Two year,0
+C00733,70,71.23,434.08,1,Basic,Two year,1
+C00734,70,39.93,123.15,2,Standard,Month-to-month,0
+C00735,4,92.22,542.61,2,Basic,Month-to-month,0
+C00736,62,54.6,254.38,4,Standard,One year,0
+C00737,62,63.14,303.58,4,Premium,Month-to-month,0
+C00738,24,40.17,106.35,2,Standard,Two year,0
+C00739,55,20.0,77.26,2,Standard,Two year,1
+C00740,9,64.27,269.36,4,Basic,Two year,0
+C00741,3,142.38,681.51,2,Standard,One year,0
+C00742,31,93.54,460.83,4,Premium,Month-to-month,1
+C00743,40,69.42,395.0,0,Basic,Two year,0
+C00744,36,62.11,320.95,0,Basic,Month-to-month,0
+C00745,24,70.67,368.75,2,Standard,Month-to-month,1
+C00746,6,86.41,377.29,2,Standard,Month-to-month,0
+C00747,66,34.58,128.84,3,Basic,Month-to-month,1
+C00748,4,103.43,607.08,3,Premium,One year,0
+C00749,6,91.46,420.55,4,Basic,One year,0
+C00750,51,91.55,540.54,1,Basic,One year,0
+C00751,62,83.15,403.62,2,Standard,Two year,0
+C00752,57,70.59,353.06,1,Basic,Two year,0
+C00753,66,90.19,504.45,1,Standard,Two year,1
+C00754,8,87.75,502.37,5,Basic,One year,0
+C00755,26,59.38,291.35,1,Basic,Month-to-month,0
+C00756,51,52.79,244.55,3,Basic,One year,0
+C00757,45,73.06,362.48,1,Premium,Two year,0
+C00758,44,116.47,599.25,0,Standard,Two year,0
+C00759,5,32.83,208.7,1,Standard,Month-to-month,0
+C00760,70,25.97,130.08,0,Basic,One year,0
+C00761,26,74.94,405.66,1,Standard,Month-to-month,1
+C00762,68,71.53,439.55,3,Standard,One year,0
+C00763,19,75.2,395.07,2,Premium,Two year,0
+C00764,20,77.32,402.18,1,Standard,Month-to-month,1
+C00765,12,63.3,240.57,3,Standard,Month-to-month,1
+C00766,47,114.7,441.94,3,Basic,One year,0
+C00767,1,21.97,129.28,0,Standard,One year,0
+C00768,14,45.15,220.98,2,Standard,One year,0
+C00769,64,66.9,308.77,1,Premium,Two year,0
+C00770,38,20.7,115.7,2,Basic,One year,0
+C00771,37,64.72,320.6,0,Basic,Two year,0
+C00772,11,119.84,655.61,3,Standard,One year,0
+C00773,3,70.63,357.44,2,Basic,One year,0
+C00774,33,76.92,347.26,4,Basic,Two year,0
+C00775,6,32.2,210.48,1,Premium,One year,0
+C00776,50,51.51,246.69,4,Standard,Two year,0
+C00777,10,58.74,320.05,1,Premium,Two year,0
+C00778,5,60.47,278.47,1,Premium,One year,0
+C00779,23,108.45,509.76,0,Basic,One year,0
+C00780,10,86.73,437.86,4,Standard,Month-to-month,0
+C00781,44,36.66,183.92,4,Basic,One year,0
+C00782,2,77.4,410.97,2,Premium,Month-to-month,1
+C00783,13,84.95,411.3,2,Standard,One year,1
+C00784,40,104.2,429.2,2,Basic,Two year,0
+C00785,2,117.42,565.44,2,Basic,Two year,0
+C00786,65,39.55,237.43,4,Standard,Month-to-month,0
+C00787,63,45.67,213.5,0,Basic,One year,0
+C00788,17,32.27,149.04,4,Basic,Month-to-month,1
+C00789,9,62.98,364.22,1,Standard,One year,0
+C00790,15,83.99,384.36,1,Premium,One year,1
+C00791,24,99.62,420.96,2,Basic,Two year,0
+C00792,38,67.72,330.58,3,Standard,Month-to-month,0
+C00793,35,60.4,277.81,2,Premium,Two year,0
+C00794,49,74.55,324.45,7,Basic,Two year,0
+C00795,69,44.95,215.96,5,Premium,Two year,0
+C00796,62,132.69,688.01,2,Basic,Month-to-month,0
+C00797,60,21.77,108.39,3,Standard,One year,0
+C00798,50,75.54,393.06,2,Standard,One year,0
+C00799,9,130.71,744.21,2,Standard,Month-to-month,1
+C00800,34,70.2,333.88,2,Premium,One year,0
+C00801,35,64.3,335.41,2,Basic,Month-to-month,0
+C00802,1,59.28,270.92,2,Basic,Month-to-month,1
+C00803,40,64.59,280.62,1,Standard,One year,0
+C00804,64,111.19,526.68,0,Premium,Two year,0
+C00805,22,20.0,76.06,5,Basic,Month-to-month,0
+C00806,60,116.0,597.99,5,Premium,Month-to-month,1
+C00807,64,27.28,253.86,1,Basic,Month-to-month,0
+C00808,11,62.0,274.2,2,Basic,Month-to-month,1
+C00809,14,57.12,264.78,0,Standard,One year,0
+C00810,60,87.66,435.13,1,Basic,One year,0
+C00811,30,22.06,130.07,2,Standard,Month-to-month,0
+C00812,35,83.87,432.5,0,Basic,Two year,0
+C00813,37,130.73,717.85,2,Basic,One year,0
+C00814,5,29.1,24.2,4,Standard,Two year,0
+C00815,26,75.69,259.11,3,Standard,Two year,0
+C00816,62,50.14,225.91,3,Standard,Month-to-month,0
+C00817,4,82.78,468.75,5,Standard,One year,0
+C00818,42,70.57,274.59,3,Basic,Month-to-month,0
+C00819,18,50.76,103.4,6,Standard,Month-to-month,1
+C00820,40,84.64,451.74,1,Premium,Two year,1
+C00821,39,124.13,632.84,4,Premium,Two year,0
+C00822,14,64.27,266.85,0,Basic,Two year,0
+C00823,32,91.59,408.69,2,Basic,Month-to-month,0
+C00824,51,31.2,107.52,4,Premium,Month-to-month,0
+C00825,38,41.31,212.06,2,Standard,Month-to-month,0
+C00826,23,84.17,389.55,3,Standard,Month-to-month,1
+C00827,63,114.52,597.32,0,Standard,Month-to-month,0
+C00828,15,80.67,260.61,0,Basic,Month-to-month,0
+C00829,25,60.61,260.2,2,Standard,Month-to-month,1
+C00830,17,69.98,293.59,5,Premium,Month-to-month,0
+C00831,66,32.49,149.62,1,Standard,One year,0
+C00832,53,88.14,413.77,1,Basic,One year,0
+C00833,51,96.47,522.24,2,Basic,One year,0
+C00834,39,56.44,189.22,2,Basic,One year,0
+C00835,51,55.9,281.77,1,Standard,Month-to-month,1
+C00836,70,77.98,417.8,0,Basic,Month-to-month,1
+C00837,6,56.9,377.32,3,Basic,Two year,0
+C00838,67,68.02,315.99,1,Premium,Two year,1
+C00839,7,132.99,681.18,1,Basic,One year,0
+C00840,51,62.59,222.75,1,Basic,Two year,0
+C00841,42,59.25,176.65,2,Basic,One year,0
+C00842,64,50.57,295.11,2,Basic,Month-to-month,0
+C00843,15,92.33,461.35,2,Standard,Month-to-month,0
+C00844,29,64.56,381.74,0,Premium,Two year,0
+C00845,33,50.52,183.92,3,Premium,Month-to-month,1
+C00846,27,109.64,574.19,4,Standard,Month-to-month,1
+C00847,36,112.59,656.38,1,Standard,One year,0
+C00848,29,51.99,280.92,5,Standard,Two year,0
+C00849,38,20.0,113.83,2,Basic,Month-to-month,0
+C00850,57,100.23,501.55,1,Basic,Two year,0
+C00851,27,49.46,168.76,3,Premium,Month-to-month,0
+C00852,55,93.72,536.37,2,Basic,One year,0
+C00853,33,20.0,69.46,1,Basic,Month-to-month,0
+C00854,68,96.78,509.11,2,Standard,Two year,0
+C00855,66,33.66,90.17,1,Standard,Two year,0
+C00856,10,91.92,400.64,4,Basic,One year,0
+C00857,5,70.43,423.9,3,Basic,Month-to-month,1
+C00858,38,41.38,189.54,3,Basic,One year,0
+C00859,13,57.79,361.61,5,Standard,Two year,0
+C00860,31,90.59,449.04,1,Basic,One year,0
+C00861,47,73.18,273.79,3,Standard,Month-to-month,0
+C00862,52,87.53,482.27,3,Standard,Month-to-month,0
+C00863,56,129.29,616.97,5,Premium,One year,0
+C00864,15,23.07,150.3,2,Basic,Two year,0
+C00865,29,118.52,593.84,0,Basic,Two year,0
+C00866,8,73.13,288.5,2,Standard,One year,0
+C00867,5,43.04,223.4,4,Standard,Month-to-month,1
+C00868,29,30.09,260.26,1,Basic,Month-to-month,0
+C00869,47,64.33,346.28,4,Standard,Month-to-month,0
+C00870,68,97.65,485.37,2,Basic,Month-to-month,0
+C00871,45,66.17,384.63,1,Basic,Two year,0
+C00872,2,115.33,587.21,2,Standard,Month-to-month,0
+C00873,27,26.46,142.8,2,Basic,One year,0
+C00874,36,69.64,293.61,2,Premium,One year,0
+C00875,36,32.43,173.83,3,Standard,One year,0
+C00876,26,80.91,456.32,4,Standard,One year,1
+C00877,43,96.61,441.23,2,Standard,Month-to-month,0
+C00878,27,57.38,358.11,0,Standard,Two year,0
+C00879,69,20.0,95.41,2,Basic,Month-to-month,0
+C00880,20,75.97,335.45,2,Premium,Two year,0
+C00881,11,83.1,465.39,1,Premium,Month-to-month,0
+C00882,38,82.13,396.3,1,Basic,Two year,1
+C00883,6,107.07,573.34,1,Basic,One year,0
+C00884,23,37.87,174.75,1,Basic,One year,0
+C00885,47,90.41,449.04,2,Standard,Two year,0
+C00886,46,105.78,553.55,1,Standard,Two year,0
+C00887,12,20.0,114.54,2,Premium,Two year,0
+C00888,13,79.59,298.17,4,Standard,One year,0
+C00889,62,54.87,218.31,4,Standard,One year,0
+C00890,60,67.55,384.24,2,Standard,Month-to-month,0
+C00891,43,80.43,395.54,2,Standard,Two year,0
+C00892,68,55.38,250.73,2,Standard,Two year,0
+C00893,5,49.73,180.72,0,Standard,Two year,0
+C00894,37,71.02,301.14,1,Standard,One year,0
+C00895,31,37.38,85.82,0,Standard,Two year,0
+C00896,9,37.43,182.06,1,Standard,Two year,1
+C00897,51,90.38,421.98,1,Standard,One year,0
+C00898,29,35.54,129.35,3,Standard,Two year,0
+C00899,40,89.99,446.54,2,Standard,Month-to-month,0
+C00900,41,83.88,437.59,2,Standard,One year,0
+C00901,11,20.0,204.66,3,Standard,One year,0
+C00902,23,49.67,172.77,1,Standard,One year,0
+C00903,1,105.82,587.09,6,Basic,Month-to-month,1
+C00904,46,40.57,251.48,2,Basic,One year,0
+C00905,21,56.07,241.38,4,Standard,One year,0
+C00906,36,83.86,429.47,2,Standard,One year,0
+C00907,54,93.5,444.63,0,Premium,One year,0
+C00908,57,62.45,321.55,3,Basic,Month-to-month,0
+C00909,1,52.07,335.83,1,Basic,Two year,0
+C00910,63,112.67,593.64,1,Basic,Two year,0
+C00911,54,122.17,636.27,2,Basic,One year,0
+C00912,55,99.37,475.31,1,Standard,Month-to-month,0
+C00913,40,72.56,288.59,3,Basic,One year,0
+C00914,15,45.75,218.34,2,Standard,Two year,0
+C00915,21,45.09,285.76,4,Standard,Two year,0
+C00916,47,85.68,352.02,0,Standard,Month-to-month,0
+C00917,53,82.55,360.01,2,Premium,Two year,0
+C00918,9,112.05,566.55,2,Standard,One year,0
+C00919,52,89.51,398.33,2,Basic,Month-to-month,0
+C00920,57,24.91,84.91,3,Premium,Two year,0
+C00921,26,101.56,486.61,3,Premium,One year,0
+C00922,41,40.06,132.01,0,Basic,Month-to-month,0
+C00923,35,58.48,243.7,2,Basic,One year,0
+C00924,63,77.51,422.7,2,Basic,Two year,0
+C00925,25,129.87,583.98,3,Basic,One year,0
+C00926,38,150.0,670.11,3,Premium,Month-to-month,0
+C00927,2,88.2,409.51,1,Standard,One year,0
+C00928,7,64.5,359.12,1,Basic,Two year,0
+C00929,34,86.04,420.33,2,Premium,Month-to-month,0
+C00930,17,96.63,459.92,1,Standard,Month-to-month,0
+C00931,43,60.38,304.12,2,Basic,Two year,0
+C00932,59,123.86,532.0,5,Premium,One year,0
+C00933,51,76.9,409.25,4,Premium,One year,0
+C00934,54,84.93,443.83,3,Premium,Two year,0
+C00935,24,89.98,429.42,4,Standard,Month-to-month,1
+C00936,25,82.65,463.53,0,Standard,Two year,0
+C00937,71,95.17,419.47,0,Basic,Month-to-month,0
+C00938,52,51.48,313.81,0,Standard,Month-to-month,1
+C00939,70,53.25,273.98,1,Premium,One year,0
+C00940,33,37.0,168.15,2,Basic,Two year,0
+C00941,49,83.19,414.93,1,Standard,Month-to-month,0
+C00942,29,93.37,461.48,1,Standard,One year,0
+C00943,63,83.73,479.68,0,Basic,Two year,0
+C00944,22,120.23,547.34,3,Standard,Two year,1
+C00945,26,69.83,311.03,3,Basic,Month-to-month,0
+C00946,28,90.06,502.13,2,Standard,Month-to-month,0
+C00947,49,37.25,156.47,2,Basic,Month-to-month,1
+C00948,71,58.39,336.96,1,Premium,Two year,1
+C00949,49,90.87,539.3,0,Basic,Month-to-month,0
+C00950,20,95.47,457.28,1,Basic,Two year,0
+C00951,63,61.18,339.97,0,Basic,One year,0
+C00952,61,67.85,281.58,4,Premium,Two year,0
+C00953,49,24.46,160.06,2,Standard,Month-to-month,0
+C00954,71,59.29,306.42,1,Standard,Two year,1
+C00955,1,96.71,507.21,5,Standard,Month-to-month,1
+C00956,13,87.26,404.0,1,Standard,One year,0
+C00957,51,85.02,342.05,2,Basic,Month-to-month,0
+C00958,56,71.49,382.63,3,Standard,Month-to-month,0
+C00959,62,70.21,247.89,1,Basic,Month-to-month,1
+C00960,32,50.19,235.08,1,Premium,Month-to-month,1
+C00961,30,90.96,501.88,2,Standard,Month-to-month,1
+C00962,29,82.63,422.74,1,Standard,Month-to-month,0
+C00963,49,84.76,521.22,1,Basic,One year,0
+C00964,45,54.22,322.35,2,Standard,One year,0
+C00965,30,20.0,67.31,0,Basic,Two year,0
+C00966,16,102.91,515.94,3,Basic,Month-to-month,1
+C00967,40,55.63,275.81,1,Basic,Two year,0
+C00968,19,44.12,141.47,1,Standard,One year,0
+C00969,18,90.8,407.0,1,Standard,One year,1
+C00970,1,58.24,263.16,3,Basic,Month-to-month,1
+C00971,47,101.8,407.18,3,Basic,Month-to-month,0
+C00972,66,88.51,444.93,1,Standard,Two year,0
+C00973,38,90.51,440.08,2,Standard,One year,0
+C00974,51,29.02,61.46,2,Basic,Two year,0
+C00975,63,106.36,552.0,2,Basic,Two year,0
+C00976,4,77.84,424.98,1,Premium,Two year,0
+C00977,1,58.92,305.96,2,Premium,Month-to-month,0
+C00978,8,74.3,355.3,2,Premium,One year,1
+C00979,29,20.0,129.57,0,Premium,Two year,0
+C00980,55,82.26,445.31,3,Basic,One year,0
+C00981,3,39.12,210.96,1,Basic,One year,0
+C00982,32,29.42,105.87,4,Basic,Two year,0
+C00983,10,24.33,135.48,3,Basic,Two year,0
+C00984,34,103.38,576.68,4,Premium,Month-to-month,0
+C00985,55,51.12,225.78,3,Standard,One year,0
+C00986,32,116.01,684.96,0,Standard,Two year,0
+C00987,50,53.93,243.35,2,Basic,Two year,0
+C00988,7,20.0,101.62,2,Premium,One year,0
+C00989,8,36.5,148.9,1,Premium,Two year,0
+C00990,65,107.07,546.54,1,Basic,One year,0
+C00991,57,65.32,239.5,1,Premium,Two year,0
+C00992,67,53.55,240.45,4,Basic,One year,0
+C00993,59,74.8,319.4,1,Basic,Two year,0
+C00994,54,85.05,432.03,2,Standard,Two year,0
+C00995,67,103.52,567.33,0,Standard,Month-to-month,0
+C00996,51,113.45,599.58,1,Basic,One year,0
+C00997,8,59.21,177.45,4,Basic,Month-to-month,0
+C00998,34,30.22,253.2,0,Premium,Two year,0
+C00999,35,57.6,302.74,2,Standard,One year,0
+C01000,32,77.81,350.22,0,Standard,One year,0
+C01001,46,41.09,213.29,3,Basic,Two year,0
+C01002,16,41.29,215.24,2,Basic,Two year,1
+C01003,68,80.31,368.23,2,Basic,Two year,0
+C01004,37,68.54,352.6,2,Basic,Two year,1
+C01005,54,70.98,324.55,1,Basic,One year,1
+C01006,14,47.25,216.01,2,Basic,Month-to-month,0
+C01007,55,63.09,281.13,2,Standard,One year,0
+C01008,48,42.27,139.73,3,Basic,One year,0
+C01009,7,96.71,490.82,3,Premium,One year,0
+C01010,7,101.06,534.55,1,Basic,One year,0
+C01011,33,20.0,125.74,3,Standard,Two year,0
+C01012,23,42.11,251.57,3,Basic,Month-to-month,1
+C01013,19,25.1,141.74,4,Standard,One year,0
+C01014,19,50.5,225.86,0,Basic,One year,0
+C01015,36,67.5,379.47,1,Premium,Month-to-month,0
+C01016,29,26.51,64.68,0,Standard,Two year,0
+C01017,60,42.34,166.69,1,Standard,One year,0
+C01018,2,39.88,151.2,0,Basic,Two year,0
+C01019,1,76.22,435.09,2,Standard,One year,0
+C01020,47,72.08,407.54,5,Standard,One year,0
+C01021,69,48.35,266.1,0,Basic,Month-to-month,1
+C01022,20,75.3,430.12,6,Standard,Month-to-month,1
+C01023,11,53.6,224.03,0,Premium,Two year,0
+C01024,2,61.85,326.68,4,Standard,One year,0
+C01025,67,120.2,594.76,2,Premium,Two year,0
+C01026,12,110.21,593.41,3,Premium,Month-to-month,0
+C01027,20,31.01,149.3,1,Premium,Month-to-month,0
+C01028,5,94.89,455.21,4,Standard,Month-to-month,1
+C01029,37,94.34,498.75,2,Standard,Month-to-month,0
+C01030,38,35.55,221.57,1,Standard,Month-to-month,0
+C01031,9,94.56,439.4,0,Standard,Two year,0
+C01032,53,116.14,577.64,3,Premium,Two year,0
+C01033,44,36.32,128.7,4,Basic,Month-to-month,1
+C01034,24,42.47,87.47,2,Basic,One year,0
+C01035,30,100.53,512.67,4,Basic,One year,0
+C01036,59,78.14,421.17,3,Basic,One year,0
+C01037,14,86.54,445.82,2,Basic,One year,0
+C01038,9,80.22,303.61,5,Standard,One year,0
+C01039,40,81.72,391.06,1,Basic,Month-to-month,0
+C01040,66,30.21,40.11,2,Standard,Two year,0
+C01041,25,101.42,575.58,2,Standard,Month-to-month,0
+C01042,22,105.09,471.14,1,Basic,One year,0
+C01043,4,63.12,378.36,0,Basic,One year,0
+C01044,26,68.7,390.77,3,Standard,Two year,0
+C01045,58,24.07,75.3,3,Standard,Month-to-month,0
+C01046,29,85.43,370.5,3,Premium,Two year,0
+C01047,37,87.16,453.33,2,Premium,One year,0
+C01048,70,68.13,298.46,3,Premium,One year,0
+C01049,18,103.73,523.78,3,Standard,Two year,0
+C01050,42,59.98,275.75,0,Premium,One year,0
+C01051,41,86.94,345.63,1,Premium,Month-to-month,0
+C01052,38,39.41,85.53,4,Premium,One year,0
+C01053,34,69.29,357.8,1,Basic,One year,0
+C01054,17,64.77,295.77,2,Premium,Month-to-month,0
+C01055,37,76.76,356.14,3,Standard,One year,0
+C01056,25,58.91,329.36,1,Standard,Two year,0
+C01057,27,66.06,388.95,1,Basic,Two year,0
+C01058,57,94.78,460.28,4,Basic,One year,0
+C01059,31,56.9,267.46,5,Basic,Month-to-month,0
+C01060,6,21.8,134.02,1,Basic,Month-to-month,1
+C01061,40,122.49,544.59,1,Basic,Two year,0
+C01062,12,111.44,568.38,5,Premium,One year,0
+C01063,53,31.23,183.75,0,Basic,Month-to-month,0
+C01064,71,90.69,487.47,2,Basic,Month-to-month,0
+C01065,10,54.91,177.72,1,Basic,Two year,0
+C01066,45,77.9,351.46,2,Standard,Two year,0
+C01067,17,78.83,350.22,2,Basic,Month-to-month,1
+C01068,26,62.97,319.83,1,Basic,Two year,0
+C01069,62,46.49,256.47,3,Standard,Month-to-month,0
+C01070,46,49.28,321.25,3,Standard,One year,0
+C01071,64,42.51,187.82,3,Basic,Two year,0
+C01072,2,45.05,200.35,1,Basic,Two year,0
+C01073,54,67.98,397.41,0,Basic,One year,0
+C01074,65,48.53,257.46,2,Premium,Month-to-month,0
+C01075,51,90.46,515.69,1,Basic,Month-to-month,0
+C01076,53,114.62,587.52,4,Standard,Two year,0
+C01077,36,52.6,205.14,4,Basic,Month-to-month,0
+C01078,26,77.18,319.25,1,Standard,Month-to-month,0
+C01079,29,84.99,347.38,0,Basic,One year,0
+C01080,21,84.16,453.9,2,Basic,One year,1
+C01081,11,72.28,420.82,2,Standard,One year,0
+C01082,40,92.28,553.87,4,Basic,Two year,0
+C01083,11,84.47,464.49,1,Basic,One year,0
+C01084,36,32.87,222.49,1,Standard,One year,0
+C01085,59,96.07,451.37,2,Premium,Month-to-month,0
+C01086,39,96.62,425.27,6,Basic,One year,0
+C01087,54,47.1,278.01,1,Standard,Two year,0
+C01088,55,71.14,376.57,0,Premium,One year,0
+C01089,24,90.5,457.87,1,Premium,Two year,0
+C01090,22,63.72,337.97,1,Standard,Month-to-month,1
+C01091,69,102.19,527.11,0,Standard,Month-to-month,0
+C01092,56,140.92,768.77,1,Basic,One year,1
+C01093,33,46.42,296.85,1,Standard,Month-to-month,0
+C01094,36,28.57,170.05,4,Basic,One year,0
+C01095,20,79.11,437.86,6,Basic,Month-to-month,0
+C01096,62,91.65,483.94,1,Standard,Two year,0
+C01097,26,63.07,292.31,1,Basic,Month-to-month,0
+C01098,66,113.6,605.82,1,Standard,One year,0
+C01099,40,29.84,79.48,2,Standard,One year,1
+C01100,17,90.79,506.63,0,Standard,One year,1
+C01101,1,51.82,199.39,5,Basic,Two year,0
+C01102,61,121.58,622.2,2,Basic,Month-to-month,1
+C01103,43,129.78,606.62,2,Standard,One year,0
+C01104,42,47.0,262.67,1,Premium,Two year,0
+C01105,25,53.51,265.87,1,Basic,Two year,0
+C01106,39,95.79,399.2,1,Basic,Two year,0
+C01107,35,58.39,312.97,6,Premium,Month-to-month,0
+C01108,3,68.64,314.29,2,Basic,Month-to-month,0
+C01109,44,70.76,397.87,1,Premium,Month-to-month,1
+C01110,51,20.0,100.07,0,Standard,Two year,0
+C01111,12,69.58,367.7,4,Standard,Month-to-month,0
+C01112,19,49.31,198.66,0,Basic,One year,0
+C01113,44,55.21,246.56,4,Basic,Two year,0
+C01114,59,113.31,543.61,1,Basic,Month-to-month,0
+C01115,49,32.3,204.36,3,Premium,Two year,0
+C01116,61,94.4,555.85,2,Standard,Two year,0
+C01117,17,61.63,267.9,2,Standard,Month-to-month,0
+C01118,57,61.61,361.88,3,Standard,Two year,0
+C01119,55,93.71,360.07,1,Basic,Month-to-month,0
+C01120,47,80.2,341.3,1,Standard,Month-to-month,1
+C01121,12,87.12,387.65,1,Standard,Month-to-month,0
+C01122,62,99.05,427.6,2,Standard,Two year,0
+C01123,8,60.06,221.12,1,Basic,Two year,0
+C01124,21,51.63,278.81,1,Standard,Month-to-month,0
+C01125,70,37.45,176.52,1,Premium,Two year,0
+C01126,25,45.24,245.16,3,Standard,Month-to-month,0
+C01127,12,150.0,784.52,6,Basic,One year,0
+C01128,15,107.34,549.98,2,Standard,Two year,0
+C01129,59,29.47,180.23,0,Basic,Two year,0
+C01130,26,30.33,148.15,0,Standard,One year,0
+C01131,26,84.46,362.93,3,Premium,One year,0
+C01132,47,86.42,484.98,3,Standard,One year,0
+C01133,32,86.47,402.88,4,Standard,Month-to-month,0
+C01134,10,62.35,264.98,2,Standard,Month-to-month,0
+C01135,16,66.24,322.29,0,Basic,One year,0
+C01136,71,79.84,353.54,2,Basic,Month-to-month,0
+C01137,17,72.58,342.01,3,Premium,Two year,0
+C01138,23,20.0,117.2,2,Standard,One year,0
+C01139,26,63.11,332.95,1,Basic,Two year,0
+C01140,7,44.46,177.4,2,Basic,Month-to-month,1
+C01141,14,75.26,351.9,2,Standard,One year,0
+C01142,7,150.0,803.72,1,Standard,Month-to-month,0
+C01143,9,81.02,429.94,1,Premium,Two year,0
+C01144,48,60.59,406.72,4,Basic,Month-to-month,0
+C01145,59,97.65,547.28,2,Premium,Two year,0
+C01146,39,84.48,479.62,4,Standard,Month-to-month,0
+C01147,18,82.6,343.62,1,Standard,Two year,0
+C01148,59,88.21,479.22,1,Standard,Month-to-month,0
+C01149,17,131.7,655.83,3,Basic,One year,0
+C01150,14,36.07,152.82,2,Premium,One year,1
+C01151,31,84.21,429.45,1,Basic,Month-to-month,0
+C01152,24,42.21,258.3,1,Basic,Two year,0
+C01153,60,86.67,458.37,1,Premium,Month-to-month,0
+C01154,45,42.44,168.27,1,Standard,One year,0
+C01155,3,57.48,324.52,0,Premium,Two year,0
+C01156,37,61.15,273.86,3,Standard,Month-to-month,0
+C01157,43,99.27,507.21,4,Basic,Month-to-month,0
+C01158,40,97.55,472.6,1,Premium,Two year,0
+C01159,55,32.63,152.2,3,Basic,Month-to-month,0
+C01160,39,71.65,396.55,0,Premium,One year,0
+C01161,15,48.71,191.55,3,Basic,One year,0
+C01162,4,32.24,258.48,1,Premium,Two year,0
+C01163,25,63.49,226.39,2,Basic,Month-to-month,1
+C01164,13,60.75,273.84,3,Standard,Month-to-month,0
+C01165,33,142.8,732.52,2,Premium,One year,1
+C01166,16,82.99,444.16,1,Standard,Two year,0
+C01167,42,28.67,138.33,1,Standard,Two year,0
+C01168,66,53.06,262.41,2,Premium,Two year,0
+C01169,55,100.64,523.73,1,Standard,One year,0
+C01170,42,132.65,651.71,2,Premium,One year,1
+C01171,34,22.42,181.76,2,Standard,Two year,0
+C01172,30,20.0,141.97,3,Basic,Two year,1
+C01173,13,126.13,674.29,5,Basic,Month-to-month,0
+C01174,13,81.69,360.13,2,Basic,Month-to-month,0
+C01175,18,43.95,215.79,2,Basic,Two year,0
+C01176,32,86.04,415.17,1,Standard,One year,1
+C01177,39,20.0,49.72,4,Basic,One year,0
+C01178,46,70.1,368.51,2,Basic,Month-to-month,0
+C01179,29,79.83,372.29,2,Basic,Two year,0
+C01180,62,97.73,521.41,0,Premium,One year,0
+C01181,62,39.58,144.41,1,Standard,One year,0
+C01182,57,72.57,448.81,1,Basic,One year,0
+C01183,16,42.24,166.37,1,Premium,One year,0
+C01184,56,77.66,399.27,2,Basic,Month-to-month,0
+C01185,10,43.14,255.29,3,Premium,One year,0
+C01186,30,57.76,260.25,3,Standard,One year,0
+C01187,25,40.13,243.25,4,Basic,Two year,0
+C01188,5,89.53,386.21,3,Standard,Two year,0
+C01189,65,95.75,551.37,1,Standard,Month-to-month,1
+C01190,49,62.96,315.51,3,Standard,Month-to-month,0
+C01191,3,71.15,325.92,1,Premium,Month-to-month,1
+C01192,45,26.54,117.75,2,Basic,Month-to-month,1
+C01193,14,61.01,345.49,0,Basic,One year,0
+C01194,30,68.49,313.25,1,Basic,Two year,0
+C01195,68,148.62,705.65,1,Basic,One year,0
+C01196,18,36.64,172.13,4,Basic,One year,0
+C01197,62,113.93,510.78,1,Premium,One year,0
+C01198,37,99.91,590.56,2,Basic,Two year,0
+C01199,25,78.42,363.78,2,Standard,Month-to-month,0
+C01200,48,122.76,655.37,1,Standard,Month-to-month,0
+C01201,65,81.16,416.29,3,Premium,Two year,0
+C01202,53,81.67,359.15,4,Premium,Two year,0
+C01203,15,68.41,341.73,0,Standard,Month-to-month,0
+C01204,49,106.71,572.74,2,Premium,One year,0
+C01205,68,102.89,505.06,2,Standard,Month-to-month,0
+C01206,12,51.23,315.8,5,Premium,Two year,0
+C01207,59,30.42,203.19,2,Standard,Month-to-month,0
+C01208,37,63.91,365.5,2,Basic,Month-to-month,1
+C01209,61,46.0,207.01,4,Standard,Month-to-month,0
+C01210,43,68.09,286.48,1,Standard,Two year,0
+C01211,70,107.12,504.94,4,Basic,Two year,0
+C01212,39,56.28,291.22,3,Basic,Month-to-month,0
+C01213,56,68.72,370.87,6,Standard,Month-to-month,0
+C01214,63,71.74,250.12,0,Premium,One year,0
+C01215,46,95.45,476.86,3,Basic,One year,0
+C01216,11,20.0,107.9,1,Standard,Month-to-month,0
+C01217,62,51.8,245.12,1,Standard,Two year,0
+C01218,25,76.34,446.26,2,Premium,One year,0
+C01219,71,106.0,551.1,2,Premium,Month-to-month,0
+C01220,52,55.24,341.72,1,Standard,One year,0
+C01221,4,20.0,89.2,2,Standard,One year,0
+C01222,59,88.59,489.83,3,Basic,One year,0
+C01223,20,50.94,336.45,2,Standard,Two year,0
+C01224,63,34.31,237.13,2,Standard,Month-to-month,1
+C01225,54,51.27,201.74,4,Premium,Two year,0
+C01226,57,64.46,309.64,1,Standard,Two year,0
+C01227,41,51.86,242.03,0,Basic,One year,0
+C01228,3,20.0,124.46,3,Standard,Month-to-month,0
+C01229,6,96.91,518.88,2,Basic,One year,0
+C01230,5,108.25,499.29,5,Basic,Two year,0
+C01231,5,89.55,451.12,3,Basic,Two year,0
+C01232,54,35.87,78.35,7,Basic,Month-to-month,1
+C01233,47,63.96,391.87,1,Premium,Two year,0
+C01234,49,69.8,323.4,4,Basic,Two year,1
+C01235,9,87.96,442.61,1,Basic,Month-to-month,0
+C01236,20,90.05,434.77,2,Premium,One year,0
+C01237,61,47.97,297.18,4,Basic,Month-to-month,0
+C01238,35,72.46,220.42,2,Basic,Two year,0
+C01239,50,83.72,417.76,0,Basic,Month-to-month,0
+C01240,62,113.67,563.08,2,Basic,One year,0
+C01241,17,91.14,432.99,2,Basic,Two year,0
+C01242,3,93.67,554.67,0,Basic,One year,0
+C01243,32,72.51,318.21,1,Standard,One year,0
+C01244,13,112.31,600.16,3,Basic,Month-to-month,1
+C01245,68,82.29,429.28,0,Basic,One year,0
+C01246,14,44.17,283.91,1,Premium,Month-to-month,0
+C01247,11,112.1,527.15,1,Standard,Month-to-month,0
+C01248,56,90.94,418.04,2,Premium,One year,0
+C01249,67,56.71,338.35,0,Standard,Month-to-month,0
+C01250,29,55.62,299.34,0,Basic,Month-to-month,0
+C01251,9,78.9,317.24,0,Standard,One year,0
+C01252,67,83.9,392.51,3,Basic,Two year,0
+C01253,25,75.92,398.91,3,Basic,Month-to-month,0
+C01254,42,79.34,438.58,0,Standard,Month-to-month,0
+C01255,9,121.0,571.03,2,Standard,One year,0
+C01256,40,102.15,365.02,3,Standard,Month-to-month,0
+C01257,25,75.72,404.76,5,Premium,One year,0
+C01258,5,98.24,430.18,3,Basic,Two year,0
+C01259,11,39.02,94.25,1,Standard,Two year,1
+C01260,59,81.94,268.07,3,Standard,One year,0
+C01261,38,124.28,662.09,2,Premium,Two year,0
+C01262,5,63.46,323.72,0,Premium,One year,0
+C01263,48,44.57,211.57,2,Premium,Month-to-month,0
+C01264,18,50.44,321.64,4,Basic,Two year,0
+C01265,70,37.31,218.42,3,Standard,Month-to-month,0
+C01266,37,46.46,313.1,2,Basic,Month-to-month,0
+C01267,60,58.88,224.79,3,Basic,One year,0
+C01268,48,27.83,137.44,3,Premium,Two year,0
+C01269,28,70.47,271.51,1,Basic,Two year,0
+C01270,69,97.07,473.87,1,Premium,Month-to-month,0
+C01271,40,42.77,201.41,5,Basic,Month-to-month,0
+C01272,45,115.58,609.22,2,Premium,One year,0
+C01273,62,85.32,428.9,4,Basic,Two year,0
+C01274,58,100.92,535.76,4,Basic,One year,0
+C01275,67,50.26,286.5,2,Basic,One year,1
+C01276,56,95.64,585.93,2,Standard,One year,1
+C01277,40,37.24,170.45,3,Basic,Two year,0
+C01278,40,96.71,436.49,4,Standard,One year,0
+C01279,33,75.16,388.08,1,Basic,Two year,0
+C01280,6,86.6,392.87,2,Basic,One year,0
+C01281,19,34.73,247.76,1,Basic,Month-to-month,0
+C01282,40,43.15,201.58,6,Standard,One year,0
+C01283,59,87.92,411.31,2,Premium,One year,0
+C01284,59,41.55,184.18,2,Premium,Two year,0
+C01285,48,83.9,455.4,1,Basic,Month-to-month,0
+C01286,41,28.99,137.04,4,Standard,Month-to-month,0
+C01287,13,95.45,445.14,2,Standard,Two year,0
+C01288,45,33.02,248.39,3,Basic,Two year,0
+C01289,53,86.57,390.04,1,Standard,Month-to-month,0
+C01290,42,88.77,445.62,4,Standard,Two year,0
+C01291,63,49.1,278.1,4,Basic,Month-to-month,1
+C01292,27,87.46,355.74,0,Basic,One year,0
+C01293,38,77.81,413.08,8,Basic,One year,0
+C01294,60,53.83,216.42,3,Standard,Month-to-month,0
+C01295,7,39.74,239.86,2,Basic,Month-to-month,0
+C01296,5,20.0,51.87,3,Basic,One year,0
+C01297,45,80.49,437.09,0,Basic,One year,0
+C01298,58,23.06,170.57,2,Basic,Month-to-month,0
+C01299,31,72.86,407.37,2,Basic,Two year,1
+C01300,23,62.1,323.05,1,Premium,Two year,0
+C01301,42,90.37,440.31,3,Basic,Month-to-month,0
+C01302,10,60.94,275.87,2,Standard,Two year,0
+C01303,32,60.12,374.13,2,Basic,One year,0
+C01304,53,91.96,424.81,2,Standard,One year,0
+C01305,30,80.05,348.41,3,Standard,Two year,0
+C01306,39,79.48,430.69,3,Basic,Month-to-month,0
+C01307,31,84.08,380.58,3,Premium,One year,0
+C01308,2,23.93,72.16,1,Standard,One year,0
+C01309,12,92.7,391.34,2,Premium,One year,0
+C01310,39,88.37,417.72,3,Standard,Two year,0
+C01311,66,39.5,193.36,0,Premium,Month-to-month,0
+C01312,13,62.68,325.54,3,Standard,Two year,0
+C01313,46,68.82,391.67,1,Premium,Month-to-month,1
+C01314,27,65.97,356.17,1,Standard,Month-to-month,0
+C01315,17,80.02,390.54,0,Standard,Two year,1
+C01316,60,112.94,554.8,2,Standard,One year,0
+C01317,64,102.45,537.77,3,Premium,Month-to-month,0
+C01318,35,30.63,216.8,2,Premium,Two year,0
+C01319,70,88.66,449.63,4,Basic,One year,0
+C01320,30,109.87,525.88,1,Standard,Month-to-month,0
+C01321,71,81.6,358.38,2,Basic,Month-to-month,0
+C01322,63,102.73,441.39,1,Standard,One year,0
+C01323,28,130.37,685.15,2,Basic,Month-to-month,0
+C01324,60,100.71,532.46,4,Basic,Two year,0
+C01325,37,77.48,416.26,0,Premium,Month-to-month,0
+C01326,22,101.35,500.33,3,Basic,Month-to-month,0
+C01327,68,74.35,442.08,1,Standard,One year,0
+C01328,20,70.72,329.38,2,Standard,Two year,0
+C01329,68,59.46,345.05,1,Basic,One year,0
+C01330,64,116.9,582.57,2,Basic,Two year,0
+C01331,17,45.45,196.82,3,Standard,One year,0
+C01332,12,115.97,609.48,3,Basic,Month-to-month,1
+C01333,22,85.0,445.46,1,Premium,Two year,0
+C01334,17,28.02,157.95,1,Premium,Two year,0
+C01335,10,81.03,409.21,3,Basic,Month-to-month,1
+C01336,65,20.0,98.11,5,Basic,One year,0
+C01337,22,88.77,563.24,1,Standard,Two year,1
+C01338,50,96.56,542.0,3,Standard,Month-to-month,0
+C01339,14,52.23,297.29,1,Basic,Month-to-month,1
+C01340,64,73.71,374.12,1,Basic,Two year,0
+C01341,47,128.62,693.48,2,Standard,Two year,0
+C01342,29,54.83,300.04,0,Premium,Two year,0
+C01343,36,38.23,192.47,2,Basic,Month-to-month,1
+C01344,52,114.45,557.07,2,Standard,One year,0
+C01345,7,128.88,640.34,1,Premium,One year,0
+C01346,29,70.11,192.03,4,Standard,Two year,1
+C01347,11,100.34,512.25,5,Standard,Month-to-month,0
+C01348,33,110.24,526.8,2,Standard,Month-to-month,0
+C01349,6,47.73,318.26,1,Premium,Two year,0
+C01350,32,55.44,278.17,2,Standard,Month-to-month,0
+C01351,51,106.93,475.18,3,Premium,Month-to-month,0
+C01352,58,120.55,600.26,0,Standard,Month-to-month,0
+C01353,26,86.89,382.13,1,Standard,Two year,0
+C01354,46,43.61,241.7,5,Basic,Two year,0
+C01355,29,129.61,662.61,3,Basic,Two year,0
+C01356,4,54.07,318.25,0,Standard,One year,0
+C01357,13,59.95,260.19,4,Basic,One year,0
+C01358,39,80.27,403.05,2,Standard,Two year,0
+C01359,15,116.62,514.87,2,Basic,Month-to-month,0
+C01360,29,95.62,513.17,1,Premium,Month-to-month,0
+C01361,29,82.45,438.17,4,Basic,Two year,0
+C01362,32,83.9,444.28,1,Premium,Month-to-month,0
+C01363,2,71.31,356.61,1,Standard,Month-to-month,0
+C01364,47,86.74,454.46,3,Basic,One year,0
+C01365,22,20.0,180.22,2,Standard,Month-to-month,0
+C01366,27,61.1,291.25,2,Basic,Month-to-month,0
+C01367,67,77.24,393.13,1,Basic,Two year,0
+C01368,56,35.47,123.04,2,Basic,One year,0
+C01369,21,81.59,364.54,2,Basic,One year,0
+C01370,47,63.87,324.22,1,Premium,Month-to-month,0
+C01371,59,122.66,668.52,2,Basic,Two year,0
+C01372,6,117.19,573.14,1,Standard,One year,0
+C01373,19,56.03,268.33,3,Basic,One year,0
+C01374,57,65.47,307.03,0,Standard,Month-to-month,0
+C01375,69,67.78,312.17,1,Basic,One year,0
+C01376,3,56.45,297.0,2,Standard,Two year,0
+C01377,1,75.85,304.39,3,Standard,Two year,0
+C01378,58,47.25,300.3,3,Standard,One year,0
+C01379,38,36.08,147.14,0,Basic,Two year,0
+C01380,15,88.68,479.5,1,Standard,Two year,0
+C01381,34,88.89,380.93,2,Basic,Month-to-month,0
+C01382,61,45.87,262.79,0,Basic,One year,0
+C01383,35,96.86,517.9,2,Standard,One year,0
+C01384,64,51.05,274.47,3,Standard,Month-to-month,0
+C01385,25,77.59,338.25,2,Standard,Month-to-month,1
+C01386,24,94.61,485.53,4,Standard,Month-to-month,1
+C01387,12,68.99,285.81,2,Basic,Month-to-month,1
+C01388,18,83.64,405.57,2,Basic,Two year,0
+C01389,15,54.51,324.01,0,Basic,Two year,0
+C01390,27,64.11,360.37,0,Standard,Month-to-month,0
+C01391,60,63.82,319.88,2,Standard,One year,0
+C01392,46,47.6,189.27,1,Basic,One year,0
+C01393,17,64.7,355.76,1,Standard,One year,0
+C01394,53,23.54,118.68,3,Standard,Month-to-month,0
+C01395,8,55.27,160.31,2,Standard,Two year,0
+C01396,27,61.45,346.4,4,Standard,Two year,0
+C01397,46,62.31,310.36,3,Standard,Two year,0
+C01398,50,62.76,373.9,2,Standard,Two year,0
+C01399,71,68.15,285.97,1,Basic,One year,0
+C01400,3,84.38,263.08,1,Basic,One year,0
+C01401,64,96.24,495.13,2,Basic,Two year,1
+C01402,44,50.51,267.11,5,Standard,Month-to-month,0
+C01403,53,33.9,84.99,4,Premium,Two year,0
+C01404,24,38.74,144.77,1,Standard,Two year,0
+C01405,60,55.38,414.68,0,Basic,Month-to-month,0
+C01406,3,59.44,281.93,0,Standard,Two year,0
+C01407,20,46.9,271.05,5,Premium,One year,0
+C01408,46,31.12,123.05,4,Premium,Month-to-month,0
+C01409,15,56.32,177.07,2,Standard,Month-to-month,0
+C01410,25,75.44,368.7,2,Premium,Two year,0
+C01411,71,87.85,425.97,4,Basic,One year,0
+C01412,17,53.28,246.39,3,Basic,One year,0
+C01413,9,57.61,282.32,6,Basic,One year,0
+C01414,38,42.2,224.21,0,Standard,Two year,0
+C01415,48,69.06,337.78,3,Basic,Two year,0
+C01416,60,44.55,159.54,1,Standard,One year,0
+C01417,63,87.19,460.28,1,Standard,Two year,1
+C01418,2,20.0,10.0,1,Basic,One year,1
+C01419,11,59.21,193.54,5,Premium,Two year,0
+C01420,64,79.03,432.13,6,Basic,Month-to-month,0
+C01421,21,75.52,402.93,1,Basic,Month-to-month,0
+C01422,18,150.0,747.13,2,Standard,Two year,1
+C01423,64,80.49,332.7,0,Basic,Two year,0
+C01424,38,39.88,164.0,0,Standard,One year,0
+C01425,32,67.14,322.54,4,Premium,Month-to-month,0
+C01426,11,20.0,20.21,2,Premium,One year,0
+C01427,45,67.58,300.96,1,Premium,Two year,0
+C01428,33,45.01,257.66,2,Basic,One year,0
+C01429,41,97.46,558.67,0,Standard,One year,0
+C01430,8,53.51,246.6,0,Basic,Two year,0
+C01431,11,66.5,370.31,2,Basic,Month-to-month,0
+C01432,51,50.93,158.96,2,Basic,One year,0
+C01433,41,122.17,643.8,0,Basic,Two year,0
+C01434,17,60.36,261.62,2,Premium,One year,0
+C01435,46,124.98,640.25,1,Basic,Two year,0
+C01436,32,94.42,459.74,3,Standard,Two year,1
+C01437,54,84.46,488.33,4,Standard,Two year,0
+C01438,20,81.06,361.59,4,Standard,Month-to-month,0
+C01439,33,81.81,440.45,2,Premium,Month-to-month,0
+C01440,40,20.0,86.02,4,Basic,Two year,0
+C01441,32,61.63,300.25,4,Standard,Month-to-month,0
+C01442,2,95.35,467.58,2,Standard,One year,1
+C01443,33,68.53,300.38,2,Basic,Month-to-month,0
+C01444,30,27.84,138.52,0,Standard,Month-to-month,0
+C01445,33,68.43,339.01,4,Premium,One year,0
+C01446,26,121.12,617.68,3,Basic,One year,0
+C01447,22,107.41,541.26,2,Basic,One year,0
+C01448,66,68.14,380.6,3,Basic,Two year,0
+C01449,38,98.54,538.89,3,Standard,One year,0
+C01450,46,59.0,242.49,2,Standard,One year,1
+C01451,15,20.0,143.44,6,Standard,One year,0
+C01452,44,42.27,152.01,1,Standard,Two year,0
+C01453,49,116.89,613.83,2,Premium,Month-to-month,0
+C01454,61,61.78,339.89,2,Standard,Two year,0
+C01455,67,62.7,217.93,2,Premium,Month-to-month,0
+C01456,6,61.0,309.67,3,Premium,One year,0
+C01457,9,127.12,612.2,2,Standard,Two year,0
+C01458,6,118.78,555.96,3,Standard,Two year,0
+C01459,32,136.56,750.36,1,Premium,Month-to-month,0
+C01460,41,65.23,293.46,1,Premium,Two year,0
+C01461,8,78.87,354.02,0,Basic,Two year,0
+C01462,50,24.5,126.29,6,Basic,Month-to-month,0
+C01463,62,114.31,605.82,2,Premium,Two year,1
+C01464,62,34.97,167.75,6,Basic,Two year,0
+C01465,7,76.5,440.83,2,Premium,One year,0
+C01466,4,37.08,211.95,1,Basic,One year,1
+C01467,6,52.33,152.76,1,Basic,One year,0
+C01468,58,44.88,197.94,0,Basic,One year,0
+C01469,22,51.76,230.73,2,Basic,One year,0
+C01470,26,53.83,293.1,2,Basic,Two year,0
+C01471,3,53.55,136.52,5,Standard,Two year,0
+C01472,41,95.0,602.45,1,Standard,One year,0
+C01473,60,36.85,210.82,1,Premium,Month-to-month,0
+C01474,14,76.62,390.53,2,Standard,One year,0
+C01475,12,106.54,591.77,2,Standard,Two year,0
+C01476,12,54.6,390.2,2,Standard,Month-to-month,0
+C01477,13,48.46,285.85,0,Standard,One year,0
+C01478,25,63.08,362.86,3,Standard,Month-to-month,0
+C01479,45,105.39,533.49,3,Basic,One year,0
+C01480,19,75.82,372.04,3,Basic,Two year,0
+C01481,55,54.06,246.53,1,Basic,One year,0
+C01482,45,84.52,381.28,3,Basic,Month-to-month,0
+C01483,8,36.93,150.31,1,Standard,Two year,0
+C01484,53,90.44,384.68,2,Basic,One year,0
+C01485,55,82.26,407.5,2,Premium,One year,1
+C01486,32,60.77,219.6,1,Premium,One year,0
+C01487,51,44.84,233.76,5,Premium,One year,0
+C01488,44,43.4,215.18,1,Premium,Two year,0
+C01489,70,86.04,437.57,2,Basic,Two year,0
+C01490,18,106.87,508.24,1,Standard,One year,0
+C01491,22,50.88,408.25,4,Basic,Two year,0
+C01492,37,83.75,486.76,2,Premium,Month-to-month,0
+C01493,56,20.0,37.77,1,Premium,Two year,0
+C01494,59,52.46,273.95,1,Premium,Month-to-month,0
+C01495,3,69.07,314.94,1,Standard,Month-to-month,0
+C01496,28,42.71,162.82,3,Standard,Two year,1
+C01497,35,41.9,142.52,1,Basic,One year,0
+C01498,61,49.97,271.44,1,Basic,Two year,0
+C01499,54,78.77,359.76,3,Standard,Month-to-month,1
+C01500,63,64.38,370.29,3,Standard,Month-to-month,0
+C01501,7,20.0,149.69,2,Premium,Two year,0
+C01502,49,20.0,168.7,0,Basic,Month-to-month,0
+C01503,31,51.79,216.35,1,Premium,Two year,0
+C01504,58,83.73,442.42,2,Standard,Two year,0
+C01505,61,20.0,131.62,1,Premium,One year,0
+C01506,24,55.01,251.33,0,Premium,Month-to-month,0
+C01507,20,54.21,232.47,0,Premium,Two year,0
+C01508,37,111.65,638.73,0,Basic,Month-to-month,0
+C01509,4,58.45,303.62,2,Premium,Two year,0
+C01510,20,81.49,439.25,0,Basic,Two year,1
+C01511,60,74.24,330.08,0,Basic,One year,0
+C01512,24,20.0,39.04,5,Standard,Two year,0
+C01513,50,93.05,436.76,3,Premium,One year,0
+C01514,49,76.46,376.11,1,Standard,Month-to-month,0
+C01515,51,85.25,373.03,0,Premium,One year,0
+C01516,36,150.0,749.51,2,Standard,One year,1
+C01517,66,20.0,15.57,0,Basic,Month-to-month,0
+C01518,34,121.74,552.7,1,Premium,One year,1
+C01519,36,61.38,340.43,1,Basic,One year,0
+C01520,6,78.62,423.29,2,Premium,Two year,0
+C01521,39,68.63,323.58,2,Basic,One year,0
+C01522,42,57.27,235.48,3,Standard,Two year,0
+C01523,58,52.91,213.15,2,Standard,One year,1
+C01524,12,79.89,380.76,2,Basic,Month-to-month,0
+C01525,3,24.48,154.65,2,Basic,Month-to-month,0
+C01526,18,92.52,509.0,0,Basic,One year,0
+C01527,40,57.51,262.74,2,Basic,Two year,0
+C01528,21,36.1,122.81,0,Basic,One year,0
+C01529,15,56.5,295.89,0,Standard,Two year,0
+C01530,26,107.71,497.4,4,Standard,One year,0
+C01531,8,53.94,243.79,2,Standard,Month-to-month,0
+C01532,42,80.75,470.03,3,Premium,Month-to-month,0
+C01533,44,48.07,281.71,4,Standard,Two year,0
+C01534,14,92.74,471.59,4,Standard,One year,0
+C01535,2,90.57,389.23,1,Standard,Two year,0
+C01536,37,125.46,637.86,3,Standard,Month-to-month,0
+C01537,69,64.73,376.8,1,Standard,Two year,0
+C01538,38,90.06,431.52,3,Basic,One year,0
+C01539,41,72.94,432.27,1,Premium,Two year,0
+C01540,62,108.88,609.02,2,Standard,One year,1
+C01541,60,48.44,325.36,3,Basic,One year,0
+C01542,14,92.35,477.01,1,Standard,Month-to-month,0
+C01543,2,64.16,350.16,4,Basic,One year,0
+C01544,70,68.07,411.08,2,Basic,One year,0
+C01545,17,72.75,386.13,0,Basic,One year,0
+C01546,28,77.57,362.77,1,Standard,Two year,0
+C01547,66,66.51,310.14,0,Standard,Month-to-month,0
+C01548,35,76.44,394.13,1,Premium,Two year,0
+C01549,5,117.34,522.19,4,Basic,Two year,0
+C01550,65,99.56,490.65,2,Standard,Month-to-month,0
+C01551,40,96.07,535.2,2,Standard,Two year,0
+C01552,56,56.33,172.11,1,Basic,Two year,0
+C01553,36,43.32,293.34,1,Standard,One year,0
+C01554,45,98.66,549.41,4,Basic,Two year,0
+C01555,23,96.28,458.42,4,Basic,Month-to-month,1
+C01556,47,114.18,598.07,1,Standard,Two year,0
+C01557,31,51.88,259.56,4,Standard,One year,0
+C01558,11,63.11,377.07,0,Basic,Two year,0
+C01559,10,20.82,153.21,2,Basic,Month-to-month,0
+C01560,67,58.23,221.13,0,Basic,One year,0
+C01561,14,99.9,528.85,2,Basic,Two year,0
+C01562,10,56.01,269.74,1,Basic,Month-to-month,0
+C01563,1,89.21,450.21,3,Basic,Month-to-month,0
+C01564,5,64.28,285.02,3,Standard,Two year,0
+C01565,20,79.72,486.02,0,Standard,Two year,0
+C01566,8,35.57,229.85,2,Standard,One year,0
+C01567,43,72.56,325.79,0,Standard,Two year,0
+C01568,1,20.0,33.27,2,Basic,One year,1
+C01569,57,64.39,302.68,1,Basic,Two year,0
+C01570,64,21.09,127.15,3,Premium,Month-to-month,0
+C01571,28,106.18,542.91,2,Basic,Month-to-month,0
+C01572,37,93.32,529.27,1,Basic,Month-to-month,0
+C01573,47,84.0,459.5,2,Basic,Month-to-month,0
+C01574,37,115.63,626.63,3,Standard,One year,0
+C01575,49,41.53,224.01,3,Standard,Month-to-month,1
+C01576,44,122.42,542.64,0,Premium,One year,0
+C01577,56,97.97,480.04,1,Premium,One year,0
+C01578,28,62.9,367.52,4,Standard,One year,1
+C01579,6,104.07,517.77,3,Basic,Two year,0
+C01580,61,36.81,209.21,1,Basic,One year,0
+C01581,20,45.26,210.39,0,Basic,Two year,0
+C01582,2,51.74,207.22,4,Basic,One year,0
+C01583,37,54.13,264.49,1,Basic,Two year,0
+C01584,20,38.3,206.97,3,Basic,Two year,0
+C01585,26,106.69,500.68,1,Basic,Month-to-month,0
+C01586,29,62.23,299.39,2,Basic,One year,0
+C01587,1,80.58,355.9,4,Premium,Two year,0
+C01588,35,52.89,320.41,1,Standard,Month-to-month,0
+C01589,70,20.0,85.28,4,Premium,One year,0
+C01590,59,78.1,463.15,2,Basic,Month-to-month,0
+C01591,69,20.0,176.44,3,Standard,Two year,0
+C01592,33,67.94,335.65,4,Basic,Month-to-month,0
+C01593,51,28.95,94.33,5,Basic,Month-to-month,0
+C01594,12,129.62,543.8,1,Basic,One year,0
+C01595,20,97.34,413.1,2,Premium,Two year,0
+C01596,53,73.17,297.17,3,Premium,One year,0
+C01597,43,107.91,608.48,0,Basic,One year,1
+C01598,50,44.61,228.84,1,Basic,Month-to-month,0
+C01599,29,86.3,451.0,2,Standard,Two year,0
+C01600,57,75.99,268.95,0,Basic,One year,1
+C01601,39,77.92,329.7,2,Basic,Two year,0
+C01602,56,108.17,585.21,4,Basic,One year,0
+C01603,43,91.97,474.21,3,Standard,Month-to-month,0
+C01604,50,78.66,385.95,2,Basic,One year,0
+C01605,23,20.35,130.01,4,Basic,One year,0
+C01606,44,41.2,287.78,3,Basic,One year,0
+C01607,38,66.32,320.54,0,Standard,Two year,0
+C01608,23,72.8,367.47,2,Premium,Month-to-month,0
+C01609,45,36.09,190.1,5,Basic,Two year,0
+C01610,52,142.35,831.36,1,Premium,One year,0
+C01611,50,115.49,472.49,2,Premium,Month-to-month,0
+C01612,8,88.06,474.48,2,Premium,Two year,0
+C01613,1,72.16,355.07,2,Standard,One year,0
+C01614,8,63.63,346.51,1,Standard,Month-to-month,0
+C01615,29,41.44,174.34,2,Premium,Month-to-month,1
+C01616,5,72.32,359.17,0,Basic,One year,0
+C01617,47,77.73,424.23,0,Standard,Month-to-month,0
+C01618,34,32.75,319.38,0,Premium,Month-to-month,0
+C01619,65,80.03,440.53,2,Standard,Two year,0
+C01620,55,65.34,284.31,5,Premium,Month-to-month,0
+C01621,43,20.0,78.81,3,Standard,Two year,0
+C01622,30,44.19,198.27,4,Premium,Two year,0
+C01623,17,57.59,198.18,1,Standard,Two year,0
+C01624,26,126.63,616.65,2,Standard,Two year,0
+C01625,8,86.7,470.12,3,Standard,Month-to-month,0
+C01626,47,29.94,85.97,2,Premium,Month-to-month,0
+C01627,46,84.58,475.33,3,Premium,Two year,0
+C01628,68,23.58,142.29,5,Premium,Month-to-month,0
+C01629,33,102.48,475.69,3,Standard,Two year,0
+C01630,1,55.87,272.25,1,Basic,Two year,0
+C01631,19,67.19,415.87,2,Basic,Two year,0
+C01632,31,109.77,585.55,1,Premium,One year,0
+C01633,14,31.39,157.36,2,Standard,Month-to-month,0
+C01634,53,28.09,128.55,1,Basic,Month-to-month,1
+C01635,48,52.49,266.29,2,Basic,Two year,0
+C01636,69,101.15,480.17,1,Premium,Month-to-month,0
+C01637,62,24.42,16.86,3,Premium,Two year,0
+C01638,66,20.0,202.11,3,Premium,Month-to-month,0
+C01639,64,56.47,290.09,3,Standard,Two year,0
+C01640,70,86.55,452.67,0,Basic,Two year,0
+C01641,63,106.01,527.14,0,Basic,One year,0
+C01642,33,56.11,243.77,1,Basic,Two year,0
+C01643,41,57.66,278.99,1,Premium,One year,0
+C01644,48,104.62,443.12,4,Basic,Month-to-month,1
+C01645,13,20.0,213.85,1,Standard,Month-to-month,0
+C01646,31,58.34,230.0,2,Standard,One year,1
+C01647,68,75.71,326.97,1,Standard,Month-to-month,0
+C01648,4,83.48,395.37,2,Premium,One year,0
+C01649,19,54.71,337.93,0,Basic,Month-to-month,0
+C01650,70,71.03,355.89,4,Standard,One year,0
+C01651,13,20.0,38.19,2,Basic,One year,0
+C01652,23,50.25,313.98,0,Basic,Two year,0
+C01653,1,83.61,454.58,2,Standard,Month-to-month,1
+C01654,54,40.53,229.58,3,Basic,Two year,0
+C01655,71,71.77,394.63,2,Standard,One year,0
+C01656,15,83.41,536.75,2,Standard,Two year,0
+C01657,65,59.72,407.87,2,Basic,One year,0
+C01658,71,75.11,341.23,0,Basic,Month-to-month,0
+C01659,15,41.12,286.78,0,Standard,Month-to-month,0
+C01660,21,63.8,338.17,1,Premium,Month-to-month,0
+C01661,19,88.31,466.49,3,Standard,One year,0
+C01662,60,74.71,288.93,4,Standard,Two year,0
+C01663,33,52.4,253.5,2,Standard,Month-to-month,0
+C01664,49,76.73,342.99,2,Standard,One year,0
+C01665,35,91.44,498.59,2,Basic,Two year,0
+C01666,44,20.0,153.55,0,Standard,One year,0
+C01667,11,104.77,420.14,0,Standard,One year,0
+C01668,66,59.91,298.46,0,Standard,Month-to-month,1
+C01669,46,82.76,469.92,0,Standard,One year,0
+C01670,9,105.92,520.25,1,Premium,One year,0
+C01671,3,28.85,180.7,2,Basic,Two year,0
+C01672,26,48.72,261.14,3,Premium,Month-to-month,1
+C01673,48,61.34,323.8,6,Standard,One year,0
+C01674,66,46.49,218.87,3,Standard,One year,0
+C01675,70,122.05,549.41,2,Basic,Two year,0
+C01676,28,44.3,165.41,2,Basic,One year,0
+C01677,26,53.33,302.14,0,Standard,One year,0
+C01678,25,76.13,381.63,1,Standard,One year,0
+C01679,12,33.94,162.75,2,Basic,One year,0
+C01680,5,58.13,269.45,1,Standard,One year,0
+C01681,48,79.52,382.36,1,Basic,Two year,0
+C01682,37,60.01,352.42,0,Premium,One year,0
+C01683,44,67.2,319.23,0,Premium,One year,0
+C01684,15,54.12,203.55,3,Basic,One year,0
+C01685,43,24.57,160.01,1,Premium,One year,0
+C01686,48,79.65,388.0,1,Premium,Month-to-month,0
+C01687,70,122.65,614.81,4,Basic,Month-to-month,0
+C01688,46,70.55,433.14,3,Standard,Month-to-month,0
+C01689,43,76.76,382.76,2,Standard,Month-to-month,0
+C01690,21,90.78,468.37,5,Standard,Two year,0
+C01691,23,31.92,100.65,2,Basic,Month-to-month,0
+C01692,47,121.08,594.39,1,Basic,Two year,1
+C01693,15,76.07,410.83,4,Standard,Month-to-month,1
+C01694,25,118.96,517.01,4,Basic,Two year,0
+C01695,36,48.01,250.09,4,Premium,Month-to-month,0
+C01696,51,124.54,627.75,3,Basic,One year,0
+C01697,15,93.25,468.34,1,Standard,Month-to-month,0
+C01698,68,86.59,484.81,3,Premium,Month-to-month,0
+C01699,21,77.02,401.83,0,Standard,Month-to-month,0
+C01700,13,62.54,386.62,0,Standard,One year,1
+C01701,19,106.02,480.4,4,Premium,Two year,0
+C01702,34,74.21,377.85,5,Premium,Two year,0
+C01703,68,20.0,104.22,2,Basic,One year,0
+C01704,52,36.48,128.96,1,Standard,Month-to-month,0
+C01705,27,64.42,369.94,1,Premium,Month-to-month,0
+C01706,29,79.3,512.73,1,Basic,Month-to-month,0
+C01707,28,68.3,340.66,3,Basic,Two year,0
+C01708,35,106.57,558.1,0,Basic,Two year,0
+C01709,8,20.0,104.23,2,Basic,One year,0
+C01710,16,74.31,335.86,0,Standard,One year,0
+C01711,36,20.0,10.0,2,Standard,Two year,1
+C01712,30,92.79,428.67,0,Premium,Month-to-month,0
+C01713,18,67.17,266.23,5,Standard,Month-to-month,0
+C01714,2,82.59,498.15,2,Basic,Month-to-month,0
+C01715,49,44.08,214.66,2,Basic,Month-to-month,0
+C01716,4,108.38,524.62,7,Premium,One year,0
+C01717,7,101.25,550.72,1,Basic,One year,0
+C01718,39,87.51,381.44,3,Basic,Two year,0
+C01719,13,66.11,292.23,0,Premium,One year,0
+C01720,31,87.4,440.38,1,Standard,Month-to-month,0
+C01721,71,48.79,295.4,2,Basic,Two year,0
+C01722,63,95.67,503.42,1,Premium,One year,0
+C01723,56,119.48,609.84,2,Premium,One year,1
+C01724,42,102.12,514.5,0,Basic,One year,0
+C01725,61,48.11,260.57,1,Premium,One year,0
+C01726,42,80.84,414.3,0,Basic,One year,0
+C01727,56,31.21,104.53,4,Standard,Month-to-month,0
+C01728,36,87.17,438.16,2,Premium,Month-to-month,0
+C01729,68,83.52,363.91,1,Premium,Month-to-month,0
+C01730,7,20.0,104.05,0,Basic,One year,0
+C01731,54,35.15,151.7,8,Basic,Two year,0
+C01732,1,61.51,434.5,1,Basic,Month-to-month,0
+C01733,44,60.97,302.88,3,Standard,Month-to-month,0
+C01734,45,33.72,98.37,2,Basic,One year,0
+C01735,47,81.67,401.64,1,Standard,Two year,0
+C01736,13,77.54,413.69,1,Basic,Month-to-month,0
+C01737,22,64.17,404.53,4,Standard,Month-to-month,1
+C01738,21,47.33,207.16,1,Basic,Two year,0
+C01739,9,101.46,428.18,1,Premium,One year,0
+C01740,26,119.66,639.15,2,Basic,Two year,0
+C01741,9,55.49,208.44,2,Basic,One year,0
+C01742,15,51.63,236.37,0,Premium,Month-to-month,1
+C01743,10,84.74,410.8,2,Standard,Two year,0
+C01744,42,59.26,292.81,1,Basic,Two year,0
+C01745,24,65.82,363.55,3,Basic,Month-to-month,0
+C01746,49,92.19,426.77,1,Standard,Month-to-month,0
+C01747,26,20.0,86.31,2,Basic,One year,0
+C01748,37,109.55,547.03,6,Standard,Month-to-month,1
+C01749,68,72.18,368.38,3,Standard,Month-to-month,0
+C01750,50,57.66,293.17,0,Basic,Two year,0
+C01751,24,67.32,358.42,2,Standard,One year,0
+C01752,19,68.87,386.56,4,Standard,Month-to-month,1
+C01753,60,20.0,119.63,0,Premium,Two year,0
+C01754,39,114.85,596.92,3,Basic,Month-to-month,0
+C01755,18,71.24,277.09,2,Standard,Month-to-month,0
+C01756,19,83.29,418.96,3,Basic,Month-to-month,0
+C01757,36,98.55,516.71,2,Standard,Month-to-month,0
+C01758,55,39.37,233.27,3,Premium,One year,1
+C01759,69,84.2,386.4,1,Basic,Two year,0
+C01760,47,61.97,276.9,3,Premium,Two year,0
+C01761,49,95.4,448.31,1,Standard,Month-to-month,0
+C01762,33,20.0,126.82,5,Premium,Two year,0
+C01763,21,67.03,386.83,0,Standard,Month-to-month,1
+C01764,22,51.92,239.2,6,Basic,Two year,0
+C01765,48,82.97,460.24,3,Basic,One year,0
+C01766,37,84.1,426.68,2,Basic,One year,0
+C01767,15,48.77,237.64,3,Basic,Two year,0
+C01768,35,48.63,232.6,1,Standard,Month-to-month,1
+C01769,71,66.68,370.73,3,Standard,Month-to-month,0
+C01770,32,43.1,231.78,1,Premium,Month-to-month,0
+C01771,11,95.26,590.09,2,Standard,Month-to-month,1
+C01772,10,58.92,252.01,2,Standard,One year,1
+C01773,57,20.0,125.91,1,Premium,Month-to-month,0
+C01774,25,58.76,267.32,2,Premium,Month-to-month,0
+C01775,2,38.84,150.75,2,Basic,Month-to-month,1
+C01776,64,21.06,104.77,2,Standard,Month-to-month,0
+C01777,35,32.88,171.25,5,Basic,One year,0
+C01778,7,73.28,512.32,1,Basic,Two year,0
+C01779,18,109.86,540.09,0,Basic,Two year,0
+C01780,67,79.4,340.47,4,Premium,Month-to-month,1
+C01781,42,51.8,272.68,4,Standard,Month-to-month,0
+C01782,39,83.68,314.65,3,Standard,Two year,0
+C01783,41,56.23,276.54,4,Premium,One year,0
+C01784,24,49.16,246.61,2,Basic,One year,0
+C01785,60,35.37,216.58,0,Standard,One year,0
+C01786,46,20.0,148.68,0,Standard,One year,0
+C01787,19,58.3,266.33,3,Basic,One year,1
+C01788,68,74.74,366.18,4,Standard,One year,0
+C01789,42,67.1,297.2,2,Basic,One year,0
+C01790,32,57.52,231.2,0,Premium,One year,0
+C01791,39,41.63,223.63,0,Basic,One year,0
+C01792,36,88.25,377.56,1,Basic,Month-to-month,1
+C01793,36,30.49,131.7,1,Standard,One year,0
+C01794,3,93.28,416.65,2,Basic,Month-to-month,0
+C01795,8,39.93,227.15,0,Basic,Two year,0
+C01796,70,47.43,327.21,0,Standard,Month-to-month,1
+C01797,41,26.0,64.9,1,Basic,Two year,0
+C01798,68,54.96,182.14,2,Standard,Month-to-month,0
+C01799,13,99.26,490.05,1,Standard,Two year,0
+C01800,49,85.47,428.13,4,Standard,Month-to-month,0
+C01801,60,99.35,507.7,2,Standard,Month-to-month,1
+C01802,2,85.66,406.01,3,Basic,Two year,0
+C01803,60,36.89,174.42,2,Basic,One year,0
+C01804,5,60.08,318.76,3,Standard,One year,0
+C01805,44,46.59,284.99,0,Premium,One year,0
+C01806,27,109.92,451.83,4,Basic,One year,0
+C01807,32,34.1,152.03,2,Standard,One year,1
+C01808,21,96.81,494.75,2,Standard,Month-to-month,1
+C01809,8,96.79,438.04,1,Standard,One year,0
+C01810,50,124.89,711.0,2,Standard,Month-to-month,0
+C01811,67,57.71,256.78,1,Basic,Two year,0
+C01812,44,91.37,454.78,1,Standard,One year,0
+C01813,58,138.45,720.05,0,Basic,One year,0
+C01814,3,51.47,227.79,3,Standard,One year,0
+C01815,70,23.95,27.42,5,Premium,One year,0
+C01816,2,20.0,78.57,2,Standard,Month-to-month,1
+C01817,44,91.38,508.38,1,Basic,Month-to-month,1
+C01818,2,20.0,83.16,0,Premium,Month-to-month,0
+C01819,35,58.83,251.83,1,Premium,Two year,0
+C01820,30,83.12,461.88,2,Standard,Month-to-month,1
+C01821,8,75.56,361.24,0,Standard,One year,0
+C01822,22,82.76,388.31,2,Basic,Two year,0
+C01823,44,76.67,390.82,1,Premium,Two year,0
+C01824,58,108.37,580.37,1,Standard,One year,0
+C01825,36,41.43,326.24,5,Premium,One year,0
+C01826,69,49.69,289.81,0,Basic,One year,0
+C01827,31,46.82,292.09,2,Basic,One year,0
+C01828,47,94.91,449.23,0,Premium,Month-to-month,0
+C01829,55,97.01,433.77,0,Standard,Two year,0
+C01830,62,83.54,420.8,0,Basic,One year,0
+C01831,30,105.5,532.88,3,Basic,Month-to-month,0
+C01832,55,34.66,119.37,4,Standard,One year,0
+C01833,16,120.02,591.32,4,Basic,Month-to-month,1
+C01834,12,115.7,598.45,1,Standard,One year,0
+C01835,17,92.07,478.36,2,Standard,One year,0
+C01836,16,123.45,642.48,2,Standard,One year,0
+C01837,12,20.3,116.05,1,Basic,Month-to-month,0
+C01838,8,54.27,245.98,3,Premium,One year,0
+C01839,3,47.94,214.01,3,Basic,Month-to-month,1
+C01840,16,91.64,398.27,2,Standard,Month-to-month,1
+C01841,30,38.5,281.72,1,Basic,Two year,0
+C01842,23,92.72,464.3,3,Standard,Month-to-month,0
+C01843,5,111.12,544.34,0,Premium,Month-to-month,1
+C01844,65,90.86,407.84,3,Premium,Month-to-month,0
+C01845,30,78.51,539.35,2,Standard,Month-to-month,0
+C01846,21,40.36,148.15,1,Standard,Month-to-month,1
+C01847,70,44.59,201.53,3,Premium,Two year,0
+C01848,22,107.49,558.23,3,Premium,One year,0
+C01849,32,93.38,496.91,2,Premium,Two year,0
+C01850,33,68.83,392.04,3,Basic,Two year,0
+C01851,16,57.46,377.69,2,Premium,One year,0
+C01852,38,20.0,125.31,1,Basic,Month-to-month,0
+C01853,14,37.87,136.57,3,Basic,One year,0
+C01854,36,127.34,623.87,1,Basic,Month-to-month,1
+C01855,23,31.59,173.32,2,Basic,One year,0
+C01856,66,75.68,481.83,2,Standard,Two year,0
+C01857,2,100.22,431.23,4,Premium,Month-to-month,1
+C01858,65,32.35,221.89,1,Standard,Two year,0
+C01859,67,75.54,386.7,1,Standard,Month-to-month,0
+C01860,52,98.14,532.58,2,Standard,One year,0
+C01861,62,70.37,346.78,3,Standard,One year,0
+C01862,23,150.0,707.88,1,Basic,One year,0
+C01863,26,20.0,137.54,1,Premium,One year,0
+C01864,68,101.76,541.53,2,Standard,One year,0
+C01865,55,64.82,372.68,1,Standard,Two year,0
+C01866,6,93.16,465.12,2,Standard,Two year,0
+C01867,35,83.24,386.2,2,Premium,Month-to-month,0
+C01868,22,48.01,162.09,1,Basic,Two year,0
+C01869,43,76.87,425.32,1,Basic,Month-to-month,0
+C01870,15,20.0,121.19,2,Standard,Month-to-month,1
+C01871,60,88.1,392.2,1,Standard,Two year,0
+C01872,12,78.94,367.8,2,Premium,Two year,0
+C01873,49,89.16,422.46,2,Basic,Month-to-month,1
+C01874,42,101.74,434.57,3,Basic,Two year,0
+C01875,38,81.03,364.26,3,Premium,Two year,1
+C01876,45,74.44,315.52,2,Standard,Two year,0
+C01877,35,43.57,197.22,4,Standard,One year,0
+C01878,30,48.63,206.23,4,Basic,One year,0
+C01879,30,105.6,446.66,1,Basic,Month-to-month,0
+C01880,6,113.09,666.58,3,Standard,Two year,0
+C01881,67,62.86,376.91,1,Basic,Month-to-month,0
+C01882,7,71.38,317.95,0,Premium,Two year,0
+C01883,52,42.86,227.93,3,Standard,One year,0
+C01884,14,105.18,546.79,3,Basic,Two year,0
+C01885,15,89.96,509.37,0,Standard,Two year,0
+C01886,21,128.24,600.25,0,Standard,Two year,0
+C01887,35,43.65,272.86,4,Basic,One year,0
+C01888,66,58.66,265.9,1,Basic,One year,0
+C01889,2,76.94,317.92,4,Standard,One year,0
+C01890,35,89.39,483.18,2,Standard,Month-to-month,1
+C01891,20,63.53,382.19,2,Standard,Two year,0
+C01892,10,43.81,348.45,3,Standard,One year,0
+C01893,25,96.44,422.22,2,Standard,Month-to-month,1
+C01894,66,91.63,493.12,2,Standard,One year,0
+C01895,25,42.51,192.07,0,Standard,Two year,0
+C01896,54,110.66,592.48,3,Standard,Month-to-month,0
+C01897,33,105.11,452.01,2,Basic,One year,0
+C01898,36,74.03,307.01,2,Premium,One year,0
+C01899,14,72.39,323.15,1,Standard,Month-to-month,0
+C01900,65,86.62,437.06,1,Premium,Month-to-month,0
+C01901,54,44.15,188.69,1,Standard,Month-to-month,0
+C01902,52,70.9,387.46,3,Basic,Month-to-month,0
+C01903,3,20.0,151.34,1,Standard,Month-to-month,1
+C01904,41,96.29,511.45,4,Basic,One year,0
+C01905,6,23.16,196.72,2,Standard,Month-to-month,0
+C01906,25,115.1,596.3,1,Standard,Month-to-month,1
+C01907,13,60.1,239.64,1,Premium,Two year,0
+C01908,8,63.65,386.42,3,Standard,One year,0
+C01909,21,51.17,225.58,2,Standard,Two year,0
+C01910,68,61.36,352.32,0,Basic,One year,0
+C01911,25,112.56,641.47,3,Premium,One year,0
+C01912,68,20.0,122.83,1,Premium,One year,0
+C01913,45,108.31,466.74,0,Standard,Month-to-month,0
+C01914,60,80.14,354.79,6,Basic,Two year,0
+C01915,12,33.79,235.08,1,Standard,One year,0
+C01916,32,37.74,180.25,4,Basic,One year,1
+C01917,13,120.29,605.44,3,Standard,One year,0
+C01918,31,41.63,246.12,3,Basic,Two year,0
+C01919,20,35.4,211.81,3,Standard,One year,1
+C01920,18,104.12,534.54,3,Standard,Two year,0
+C01921,60,80.16,390.35,1,Basic,Two year,0
+C01922,63,41.86,193.68,0,Standard,Month-to-month,0
+C01923,6,76.5,425.39,1,Premium,One year,0
+C01924,32,39.23,223.82,1,Basic,One year,0
+C01925,43,103.02,502.26,0,Standard,Two year,0
+C01926,2,101.84,563.31,1,Basic,Two year,1
+C01927,60,85.96,423.35,3,Basic,Month-to-month,0
+C01928,23,80.85,361.67,0,Basic,One year,1
+C01929,31,122.84,576.23,0,Standard,Two year,0
+C01930,5,69.99,301.02,2,Standard,One year,0
+C01931,34,34.54,159.1,1,Premium,One year,0
+C01932,10,83.48,479.11,4,Standard,One year,0
+C01933,2,132.58,622.65,0,Basic,Two year,1
+C01934,11,39.56,207.21,2,Standard,One year,0
+C01935,50,59.16,262.95,4,Basic,Two year,0
+C01936,31,82.49,399.45,2,Standard,Month-to-month,0
+C01937,56,68.38,266.41,4,Basic,Month-to-month,0
+C01938,9,40.53,191.63,1,Basic,Two year,0
+C01939,21,103.66,508.59,2,Standard,One year,0
+C01940,28,139.6,725.02,0,Premium,Month-to-month,0
+C01941,62,75.88,390.58,2,Basic,Month-to-month,0
+C01942,7,42.88,154.47,2,Premium,Two year,0
+C01943,16,23.53,171.87,4,Basic,Two year,0
+C01944,4,77.74,399.21,1,Premium,Two year,0
+C01945,4,103.12,525.5,5,Standard,Two year,0
+C01946,40,84.26,420.82,1,Basic,Two year,0
+C01947,17,69.93,323.75,0,Basic,Two year,0
+C01948,52,52.32,272.5,3,Basic,Two year,0
+C01949,52,37.24,209.95,1,Basic,One year,0
+C01950,36,95.04,387.87,3,Basic,One year,0
+C01951,38,97.41,460.13,4,Standard,One year,0
+C01952,50,23.63,105.39,0,Premium,One year,0
+C01953,63,117.7,601.28,1,Basic,Month-to-month,0
+C01954,63,87.22,495.78,2,Standard,One year,0
+C01955,62,111.99,521.35,1,Standard,Month-to-month,0
+C01956,7,29.74,123.78,4,Premium,Month-to-month,0
+C01957,27,29.03,119.5,1,Standard,Month-to-month,0
+C01958,14,65.53,287.58,4,Standard,Two year,0
+C01959,71,85.08,408.06,0,Standard,Month-to-month,0
+C01960,5,123.89,657.99,0,Basic,Month-to-month,0
+C01961,55,91.18,403.22,2,Basic,Month-to-month,0
+C01962,2,62.72,334.99,4,Standard,Two year,0
+C01963,62,39.21,110.95,4,Basic,One year,0
+C01964,21,106.9,506.43,1,Standard,One year,0
+C01965,21,41.06,188.82,3,Basic,Month-to-month,0
+C01966,10,118.85,678.01,1,Standard,Month-to-month,0
+C01967,58,61.47,293.6,1,Basic,One year,1
+C01968,39,117.72,478.53,1,Premium,One year,0
+C01969,5,90.37,351.9,2,Premium,One year,0
+C01970,65,65.89,331.15,3,Basic,One year,1
+C01971,13,54.42,302.78,3,Basic,Month-to-month,1
+C01972,53,59.77,317.64,0,Standard,Month-to-month,0
+C01973,45,82.85,422.63,0,Basic,Month-to-month,0
+C01974,32,72.31,419.69,0,Basic,One year,0
+C01975,36,52.19,233.95,1,Basic,Two year,0
+C01976,60,65.03,369.9,2,Premium,One year,0
+C01977,11,72.36,280.19,3,Premium,One year,0
+C01978,63,20.0,54.75,2,Standard,Two year,0
+C01979,21,83.75,328.37,3,Standard,Two year,0
+C01980,52,40.61,189.3,3,Premium,One year,0
+C01981,55,35.4,174.69,4,Premium,Two year,0
+C01982,26,20.0,105.71,2,Premium,Two year,0
+C01983,68,20.0,103.09,1,Basic,Two year,0
+C01984,34,29.34,100.31,2,Basic,One year,0
+C01985,52,48.73,234.13,2,Standard,One year,0
+C01986,52,128.6,568.12,2,Standard,Two year,0
+C01987,29,54.22,339.28,1,Basic,Month-to-month,0
+C01988,38,75.33,361.48,1,Basic,Two year,0
+C01989,42,82.01,385.63,0,Premium,Two year,0
+C01990,21,73.93,449.11,0,Premium,One year,0
+C01991,42,67.68,276.27,2,Basic,Month-to-month,0
+C01992,13,34.14,114.43,1,Premium,Two year,0
+C01993,64,113.53,512.83,7,Standard,Month-to-month,0
+C01994,17,124.22,617.69,1,Premium,One year,1
+C01995,9,20.0,121.58,1,Standard,Month-to-month,0
+C01996,41,39.28,233.38,1,Basic,One year,0
+C01997,1,61.61,436.63,2,Standard,Two year,0
+C01998,2,41.06,92.85,4,Standard,One year,0
+C01999,60,85.18,456.33,2,Standard,Month-to-month,1
+C02000,48,48.15,212.9,1,Basic,Month-to-month,0
